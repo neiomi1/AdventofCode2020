@@ -4,6 +4,6 @@
 cmake_minimum_required (VERSION 3.8)
 
 # Add source to this project's executable.
-add_executable (AdventofCodeDay1 "AdventofCodeDay1.cpp" "AdventofCodeDay1.h")
+add_executable (AdventofCodeDay1 "Day_01.cpp" "Day_01.h")
 
 # TODO: Add tests and install targets if needed.

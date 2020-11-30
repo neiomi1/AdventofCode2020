@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "AdventofCodeDay1/AdventofCodeDay1.exe"
+			"path" : "Day_01/AdventofCodeDay1.exe"
 		},
 		{
-			"path" : "AdventofCodeDay1/AdventofCodeDay1.pdb"
+			"path" : "Day_01/AdventofCodeDay1.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -17,7 +17,7 @@
 		],
 		"files" : 
 		[
-			"AdventofCodeDay1/CMakeLists.txt"
+			"Day_01/CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -48,7 +48,7 @@
 			]
 		}
 	],
-	"id" : "AdventofCodeDay1::@a746ad30e73490b58bc2",
+	"id" : "AdventofCodeDay1::@d19c65b8bb15e0d1006f",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -72,8 +72,8 @@
 	"nameOnDisk" : "AdventofCodeDay1.exe",
 	"paths" : 
 	{
-		"build" : "AdventofCodeDay1",
-		"source" : "AdventofCodeDay1"
+		"build" : "Day_01",
+		"source" : "Day_01"
 	},
 	"sourceGroups" : 
 	[
@@ -97,12 +97,12 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "AdventofCodeDay1/AdventofCodeDay1.cpp",
+			"path" : "Day_01/Day_01.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "AdventofCodeDay1/AdventofCodeDay1.h",
+			"path" : "Day_01/Day_01.h",
 			"sourceGroupIndex" : 1
 		}
 	],

@@ -18,14 +18,14 @@
 					"source" : "."
 				},
 				{
-					"build" : "AdventofCodeDay1",
+					"build" : "Day_01",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.8"
 					},
 					"parentIndex" : 0,
 					"projectIndex" : 0,
-					"source" : "AdventofCodeDay1",
+					"source" : "Day_01",
 					"targetIndexes" : 
 					[
 						0
@@ -52,8 +52,8 @@
 			[
 				{
 					"directoryIndex" : 1,
-					"id" : "AdventofCodeDay1::@a746ad30e73490b58bc2",
-					"jsonFile" : "target-AdventofCodeDay1-Debug-33f121f813d914102eb0.json",
+					"id" : "AdventofCodeDay1::@d19c65b8bb15e0d1006f",
+					"jsonFile" : "target-AdventofCodeDay1-Debug-eb9438beebe760a8db78.json",
 					"name" : "AdventofCodeDay1",
 					"projectIndex" : 0
 				}
