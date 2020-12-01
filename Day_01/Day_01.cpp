@@ -17,8 +17,7 @@ void read_entries(const std::string& filename) {
 		entries.push_back(current);
 		num_entries++;
 	}
-	std::sort(entries.begin(), entries.end(), std::greater<int>());
-	//std::cout << entries.size();
+	std::sort(entries.begin(), entries.end());
 }
 
 int find_pair(int sum_goal) {
@@ -26,7 +25,7 @@ int find_pair(int sum_goal) {
 		for (int j = i + 1; j < num_entries; j++) {
 			int temp_sum = entries[i] + entries[j];
 			if (temp_sum > sum_goal) {
-			continue;
+			break;
 			}
 			if (temp_sum == sum_goal) {
 				return entries[i] * entries[j];
@@ -45,7 +44,7 @@ int find_triple(int sum_goal) {
 			for (int k = j + 1; k < num_entries; k++) {
 				int temp_sum = entries[i] + entries[j] + entries[k];
 				if (temp_sum > sum_goal) {
-					continue;
+					break;
 				}
 				if (temp_sum == sum_goal) {
 					return entries[i] * entries[j] * entries[k];
