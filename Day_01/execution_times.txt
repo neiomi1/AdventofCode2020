@@ -1,3 +1,3 @@
-Input read in 749 microseconds.
-Pair calculated in 570 microseconds.
-Triple calculated in 46641 microseconds.
+Input read in 822 microseconds.
+Pair calculated in 356 microseconds.
+Triple calculated in 1504 microseconds.

@@ -32,6 +32,9 @@ int find_pair(int sum_goal) {
 				return entries[i] * entries[j];
 			}
 		}
+		if (entries[i] > sum_goal) {
+			break;
+		}
 	}
 	return NULL;
 }
@@ -48,6 +51,13 @@ int find_triple(int sum_goal) {
 					return entries[i] * entries[j] * entries[k];
 				}
 			}
+			if (entries[i] + entries[j] > sum_goal) {
+				break;
+			}
+		}
+		if (entries[i] > sum_goal) {
+			break;
+
 		}
 	}
 	return NULL;
