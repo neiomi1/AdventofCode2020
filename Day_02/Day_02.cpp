@@ -7,14 +7,12 @@
 #include <algorithm>
 #include <chrono>
 
-int num_entries = 0;
 
 void read_entries(const std::string& filename, std::vector<Password>& passwords) {
 	auto file = std::ifstream{ "..\\..\\..\\..\\Day_02\\" + filename };
 	Password temp_password{};
 	while (file >> temp_password) {
 		passwords.push_back(temp_password);
-		num_entries++;
 	}
 }
 //old policy - part 1
