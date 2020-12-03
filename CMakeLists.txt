@@ -13,3 +13,4 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 # Include sub-projects.
 add_subdirectory ("Day_01")
 add_subdirectory ("Day_02")
+add_subdirectory ("Day_03")
