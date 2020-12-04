@@ -44,7 +44,7 @@ int count_trees_on_path(const Tree_Biome& trees, int x_diff, int y_diff) {
 
 
 int count_multiple_paths(const Tree_Biome& trees) {
-	auto paths = std::vector<std::pair<int, int>>{ {1,1},{3,1},{5,1},{7,1},{1,2}};
+	const auto paths = std::vector<std::pair<int, int>>{ {1,1},{3,1},{5,1},{7,1},{1,2}};
 	int tree_num = 1;
 	for (const auto& path : paths) {
 		tree_num *= count_trees_on_path(trees, path.first, path.second);
