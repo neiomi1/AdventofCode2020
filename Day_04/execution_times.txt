@@ -1,3 +1,3 @@
-Input read in 6607 microseconds.
-Number of lenient passports found in: 445740 microseconds.
-Number of rigid passports found in: 838888 microseconds.
+Input read in 5364 microseconds.
+Number of lenient passports found in: 1668 microseconds.
+Number of rigid passports found in: 41063 microseconds.

@@ -24,8 +24,8 @@ Passport::Passport(const std::string& passport) {
 	metric = true;
 	valid=true;
 
-	auto file = std::ofstream{ "..\\..\\..\\..\\Day_04\\output.txt", std::ios::app };
-	file << passport << "\n";
+	//auto file = std::ofstream{ "..\\..\\..\\..\\Day_04\\output.txt", std::ios::app };
+	//file << passport << "\n";
 
 	while (stream >> temp) {
 		//std::cout << temp << "\n";
@@ -38,42 +38,42 @@ Passport::Passport(const std::string& passport) {
 			if (std::regex_match(rhs, reg)) {
 				byr = std::stoi(rhs);
 			}
-			file << "byr " << byr;
+			//file << "byr " << byr;
 			if (!(byr >= 1920 && byr <= 2002)) {
 				valid = false;
-				file << " bad byr";
+				//file << " bad byr";
 			}
-			file << "\n";
+			//file << "\n";
 		}
 		if (lhs == "iyr") {
 			auto reg = std::regex("20[1-2][0-9]");
 			if (std::regex_match(rhs, reg)) {
 				iyr = std::stoi(rhs);
-				file << "iyr " << iyr;
+				//file << "iyr " << iyr;
 				if (!(iyr <= 2020 && iyr >= 2010)) {
 					valid = false;
-					file << " bad iyr";
+					//file << " bad iyr";
 				}
 			}
 			else {
 				valid = false;
 			}
-			file << "\n";
+			//file << "\n";
 		}
 		if (lhs == "eyr") {
 			auto reg = std::regex("20[2-3][0-9]");
 			if (std::regex_match(rhs, reg)) {
 				eyr = std::stoi(rhs);
-				file << "eyr " << eyr;
+				//file << "eyr " << eyr;
 				if (!(eyr <= 2030 && eyr >= 2020)) {
 					valid = false;
-					file << " bad eyr";
+					//file << " bad eyr";
 				}
 			}
 			else {
 				valid = false;
 			}
-			file << "\n";
+			//file << "\n";
 		}
 		if (lhs == "hgt") {
 			auto met_it = rhs.find("cm");
@@ -93,7 +93,7 @@ Passport::Passport(const std::string& passport) {
 			if (!((metric == true && hgt >= 150 && hgt <= 193 )|| (metric == false && hgt >= 59 && hgt <= 76))) {
 				valid = false;
 			}
-			file << "hgt " << hgt << "\n";
+			//file << "hgt " << hgt << "\n";
 		}
 		if (lhs == "hcl") {
 			hcl = rhs;
@@ -101,7 +101,7 @@ Passport::Passport(const std::string& passport) {
 			if (!std::regex_match(rhs, reg)) {
 				valid = false;
 			}
-			file << "hcl " << hcl << "\n";
+			//file << "hcl " << hcl << "\n";
 		}
 		if (lhs == "ecl") {
 			ecl = rhs;
@@ -109,13 +109,13 @@ Passport::Passport(const std::string& passport) {
 			if (!std::regex_match(ecl, reg)) {
 				valid = false;
 			}
-			file << "ecl " << ecl << "\n";
+			//file << "ecl " << ecl << "\n";
 		}
 		if (lhs == "pid") {
 			auto reg = std::regex("[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]");
 			if (std::regex_match(rhs, reg)) {
 				pid = std::stoi(rhs);
-				file << "pid " << pid << "\n";
+				//file << "pid " << pid << "\n";
 			}
 			else {
 				valid = false;
@@ -123,7 +123,7 @@ Passport::Passport(const std::string& passport) {
 		}
 	}
 
-	file << "valid: " << valid<< "\n";
+	//file << "valid: " << valid<< "\n";
 }
 
 
@@ -148,12 +148,12 @@ void read_entries(const std::string& filename, std::vector<std::string>& passpor
 }
 
 bool validate_passport_lenient(const std::string& passport) {
-	auto file = std::ofstream{ "..\\..\\..\\..\\Day_04\\output.txt" };
-	file << passport << "\n";
+	//auto file = std::ofstream{ "..\\..\\..\\..\\Day_04\\output.txt" };
+	//file << passport << "\n";
 	std::string field[7] = {"byr","iyr", "eyr", "hgt", "hcl", "ecl","pid"};
 	for (int i = 0; i < 7; i++) {
 		if (passport.find(field[i]) != std::string::npos) {
-			file << "found: " + field[i] << "\n";
+			//file << "found: " + field[i] << "\n";
 			continue;
 		}
 		else {
