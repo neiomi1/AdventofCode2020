@@ -1,3 +1,1 @@
-Input read and parsed in: 42998 microseconds.
-Sum of all anyone answers calculated in: 14 microseconds.
-Number of all everyone answers calculated in: 584 microseconds.
+Input read and parsed in: 1419626 microseconds.
