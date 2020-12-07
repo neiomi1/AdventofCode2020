@@ -5,12 +5,37 @@ cmake_minimum_required (VERSION 3.10)
 
 project ("AdventofCode2020")
 
+
+# FetchTest-Library and enable unit tests
+include(FetchContent)
+FetchContent_Declare(
+	catch2
+	GIT_REPOSITORY https://github.com/catchorg/Catch2.git
+	GIT_TAG        v2.11.3
+	TIMEOUT        10
+)
+
+FetchContent_GetProperties(catch2)
+if(NOT catch2_POPULATED)
+	message("Fetching catch2 library from github")
+	FetchContent_Populate(catch2)
+	set(CATCH_BUILD_TESTING   OFF CACHE BOOL "" FORCE)
+	set(CATCH_INSTALL_DOCS    OFF CACHE BOOL "" FORCE)
+	set(CATCH_INSTALL_HELPERS ON  CACHE BOOL "" FORCE)
+	add_subdirectory(${catch2_SOURCE_DIR} ${catch2_BINARY_DIR})
+	include(${catch2_SOURCE_DIR}/contrib/Catch.cmake)
+	include(CTest)
+endif()
+
+enable_testing()
+
 # https://cmake.org/cmake/help/latest/prop_tgt/CXX_STANDARD.html
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
 # Include sub-projects.
+add_subdirectory ("TESTS")
 add_subdirectory ("Day_01")
 add_subdirectory ("Day_02")
 add_subdirectory ("Day_03")
