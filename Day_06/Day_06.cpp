@@ -1,14 +1,10 @@
-﻿
-
-#include "Day_06.h"
+﻿#include "Day_06.h"
 #include <vector>
 #include <fstream>
 #include <algorithm>
 #include <chrono>
 #include <unordered_map>
 #include <sstream>
-#include <regex>;
-
 
 
 void read_entries(const std::string& filename, std::vector<DeclarationForm>& declaration_forms) {
@@ -38,7 +34,7 @@ void read_entries(const std::string& filename, std::vector<DeclarationForm>& dec
 
 int sum_answers_anyone(const std::vector<DeclarationForm>& declaration_forms) {
 	int sum = 0;
-	std::for_each(declaration_forms.begin(), declaration_forms.end(), [&](const auto& entry) {sum += entry.answers.size(); });
+	std::for_each(declaration_forms.begin(), declaration_forms.end(), [&](const auto& entry) {sum += (int)std::ssize(entry.answers); });
 	return sum;
 }
 

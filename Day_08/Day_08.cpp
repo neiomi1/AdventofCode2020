@@ -3,7 +3,6 @@
 #include "Day_08.h"
 
 #include <fstream>
-#include <algorithm>
 #include <chrono>
 #include <sstream>
 

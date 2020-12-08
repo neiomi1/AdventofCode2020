@@ -1,13 +1,11 @@
-﻿
-
-#include "Day_04.h"
+﻿#include "Day_04.h"
 #include <vector>
 #include <fstream>
 #include <algorithm>
 #include <chrono>
 #include <unordered_map>
 #include <sstream>
-#include <regex>;
+#include <regex>
 
 
 Passport::Passport(const std::string& passport) {
@@ -131,7 +129,6 @@ Passport::Passport(const std::string& passport) {
 void read_entries(const std::string& filename, std::vector<std::string>& passports) {
 	auto file = std::ifstream{ "..\\..\\..\\..\\Day_04\\" + filename };
 	std::string line;
-	int line_num = 0;
 	std::string passport;
 	while (std::getline(file, line)){
 		if (line.empty() && !passport.empty()) {

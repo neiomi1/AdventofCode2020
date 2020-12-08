@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-//#define CATCH_CONFIG_ENABLE_BENCHMARKING
+#define CATCH_CONFIG_ENABLE_BENCHMARKING
 #include <catch2/catch.hpp>
 
 #include "../Day_01/Day_01.h"

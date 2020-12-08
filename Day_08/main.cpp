@@ -1,6 +1,6 @@
 #include <chrono>
 #include "Day_08.h"
-#include "Day_08.cpp"
+#include <fstream>
 
 int main()
 {

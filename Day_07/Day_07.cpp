@@ -40,31 +40,30 @@ void read_entries(const std::string& filename, Held_by_map& held_by, Contains_ma
 
 int count_possible_bags(const std::string& bag, Held_by_map& held_by) {
 	std::unordered_set<std::string> bags{bag};
-	int result = bags.size();
 	int n = 0;
-	while (n < bags.size()) {
-		n = bags.size();
+	while (n < std::ssize(bags)) {
+		n = (int)std::ssize(bags);
 		for (auto it = bags.begin(); it != bags.end(); it++) {
-			for (const auto& bag : held_by[*it]) {
-				if (!bags.contains(bag)) {
-					bags.insert(bag);
+			for (const auto& bag_unit : held_by[*it]) {
+				if (!bags.contains(bag_unit)) {
+					bags.insert(bag_unit);
 				}
 			}
 		}
 	}
-	return bags.size() - 1;
+	return (int)std::ssize(bags) - 1;
 }
 
 int count_contained_bags(const std::string& bag, Contains_map& contains) {
 	int result = 0;
 	std::vector<std::string> bags{bag};
 	while (!bags.empty()) {
-		int size = bags.size();
+		int size = (int)std::ssize(bags);
 		for (int i = 0; i <size; i++) {
-			for (const auto& [bag, amount] : contains[bags[i]]) {
+			for (const auto& [bag_unit, amount] : contains[bags[i]]) {
 				result += amount;
 				for (int n = 0; n < amount; n++) {
-					bags.push_back(bag);
+					bags.push_back(bag_unit);
 				}
 			}
 		}

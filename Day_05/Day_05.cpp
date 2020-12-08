@@ -57,7 +57,7 @@ int find_empty_seat(const std::vector<Seat>& seats) {
 		}
 		seat--;
 	}
-
+	return -1;
 }
 
 int main()

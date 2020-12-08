@@ -4,7 +4,7 @@ cmake_minimum_required (VERSION 3.8)
 # Add source to this project's executable.
 add_executable (Day01Tests "Day_01_test.cpp" )
 
-add_executable (Day08Tests "Day_08_test.cpp")
+add_executable (Day08Tests "Day_08_test.cpp" "../Day_08/Day_08.cpp")
 
 # TODO: Add tests and install targets if needed.
 #target_compile_definitions(Day01Tests PUBLIC CATCH_CONFIG_ENABLE_BENCHMARKING)

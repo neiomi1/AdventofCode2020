@@ -14,7 +14,7 @@ void read_entries(const std::string& filename, Tree_Biome& biome){
 	std::string line;
 	int line_num = 0;
 	while (file >> line) {
-		biome.repeating_pattern[line_num] = std::ssize(line);
+		biome.repeating_pattern[line_num] = (int)std::ssize(line);
 		for (int i = 0; i < std::ssize(line); i++) {
 			if (line[i] == '#') {
 				biome.tree_map[line_num][i] = true;
