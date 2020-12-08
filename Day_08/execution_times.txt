@@ -1,3 +1,3 @@
-Input read and parsed in: 7409 microseconds.
-Part one calculated in: 145 microseconds.
-Part two calculated in: 24856 microseconds.
+Input read and parsed in: 22581 microseconds.
+Part one calculated in: 232 microseconds.
+Part two calculated in: 28786 microseconds.
