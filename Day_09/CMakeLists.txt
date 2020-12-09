@@ -1,4 +1,4 @@
-﻿# CMakeList.txt : CMake project for AdventofCodeDay1, include source and define
+﻿# CMakeList.txt : CMake project for AdventofCodeDay9, include source and define
 # project specific logic here.
 #
 cmake_minimum_required (VERSION 3.8)
