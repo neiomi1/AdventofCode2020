@@ -1,5 +1,6 @@
 ﻿#pragma once
 
+
 #include <string>
 #include <set>
 #include <queue>
@@ -18,13 +19,13 @@ public:
 
 	int part_one();
 
-	int calculate_permutations(int size);
+	uint64_t calculate_permutations(int size);
 
-	long long part_two();
+	uint64_t part_two();
 
 private:
 	std::vector<int> jolts_{ 0 };
 	std::vector<std::vector<int>> jolt_groups_{};
-	std::unordered_map<int, int> memory_{ {0,0}, {1,1},{2,1} };
+	std::unordered_map<int, uint64_t> memory_{ {0,0}, {1,1},{2,1} };
 };
 

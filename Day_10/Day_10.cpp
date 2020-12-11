@@ -25,36 +25,37 @@ int Adapters::part_one()
 	}
 	temp.push_back((int)std::ssize(jolts_) - 1);
 	jolt_groups_.push_back(temp);
-	
-	std::cout << "1 jolt difference " << diff_1 << "\n2 jolt difference "<< diff_2 << "\n3 jolt difference " << diff_3 << "\n";
+
+	std::cout << "1 jolt difference " << diff_1 << "\n2 jolt difference " << diff_2 << "\n3 jolt difference " << diff_3 << "\n";
 	return diff_1 * diff_3;
 }
 
 //Tribonacci numbers. Though I did those by hand and realized the pattern after :(
-int Adapters::calculate_permutations(int size)
+uint64_t Adapters::calculate_permutations(int size)
 {
 	if (memory_.contains(size)) {
 		return memory_[size];
 	}
 	else {
-		int temp = calculate_permutations(size - 1) + calculate_permutations(size - 2) + calculate_permutations(size - 3);
+		uint64_t temp = calculate_permutations(size - 1) + calculate_permutations(size - 2) + calculate_permutations(size - 3);
 		memory_[size] = temp;
 		return temp;
 	}
 }
 
-long long Adapters::part_two()
+uint64_t Adapters::part_two()
 {
 	//if you like further output just uncomment
-	//auto file = std::ofstream{ "../../../../Day_10/output.txt" };
-	long long result = 1;
+	auto file = std::ofstream{ "../../../../Day_10/output.txt" };
+	uint64_t result = 1;
 	for (const auto& jolt_group : jolt_groups_) {
+
+		file << "[ " << result << " " << calculate_permutations((int)std::ssize(jolt_group));
 		result *= calculate_permutations((int)std::ssize(jolt_group));
-		//file << "[ ";
 		//for (const auto& num : jolt_group) {
 		//	file << jolts_[num] << " ";
 		//}
-		//file << "]\n";
+		file << " " << result << "]\n";
 	}
 	return result;
 }

@@ -2,21 +2,20 @@
 #include <chrono>
 #include <iostream>
 
-#include "Day_10.h"
+#include "Day_11.h"
 
 int main()
 {
 
-
-	auto file_time = std::ofstream{ "..\\..\\..\\..\\Day_10\\execution_times.txt" };
+	auto file_time = std::ofstream{ "..\\..\\..\\..\\Day_11\\execution_times.txt" };
 	auto start = std::chrono::high_resolution_clock::now();
-	auto adapters = Adapters("../../../../Day_10/big_input_01.txt");
+	auto ferry = Ferry("../../../../Day_11/input.txt");
 	auto stop = std::chrono::high_resolution_clock::now();
 	auto duration = std::chrono::duration_cast<std::chrono::microseconds>(stop - start);
 	file_time << "Input read in: " << duration.count() << " microseconds.\n";
 
 	start = std::chrono::high_resolution_clock::now();
-	int answer_part_one = adapters.part_one();
+	int answer_part_one = ferry.part_one();
 	stop = std::chrono::high_resolution_clock::now();
 	duration = std::chrono::duration_cast<std::chrono::microseconds>(stop - start);
 	file_time << "Part one calculated in: " << duration.count() << " microseconds.\n";
@@ -24,11 +23,12 @@ int main()
 	std::cout << "Part one answer: " << answer_part_one << "\n";
 
 	start = std::chrono::high_resolution_clock::now();
-	uint64_t answer_part_two = adapters.part_two();
+	uint64_t answer_part_two = ferry.part_two();
 	stop = std::chrono::high_resolution_clock::now();
 	duration = std::chrono::duration_cast<std::chrono::microseconds>(stop - start);
 	file_time << "Part two calculated in: " << duration.count() << " microseconds.";
-
+	
 	std::cout << "Part two answer: " << answer_part_two << "\n";
+
 
 }
