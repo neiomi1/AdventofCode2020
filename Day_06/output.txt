@@ -1,0 +1,7381 @@
+Number of people 2
+c 1
+l 2
+v 1
+p 2
+x 1
+y 2
+j 1
+b 1
+k 1
+r 1
+i 1
+a 1
+t 1
+z 1
+
+Number of people 3
+i 1
+a 1
+y 2
+z 1
+b 1
+r 3
+n 2
+l 1
+d 1
+o 1
+p 1
+
+Number of people 5
+y 5
+i 5
+w 5
+o 5
+t 1
+l 1
+e 5
+u 5
+k 5
+d 5
+r 5
+c 5
+a 5
+v 5
+f 5
+g 5
+q 5
+h 5
+n 1
+j 2
+s 2
+x 2
+b 1
+
+Number of people 4
+x 4
+z 4
+r 4
+j 2
+g 4
+n 4
+s 2
+c 4
+i 4
+q 4
+h 4
+m 4
+u 2
+a 1
+o 1
+d 1
+f 1
+v 1
+
+Number of people 3
+q 1
+i 1
+a 3
+z 1
+j 1
+g 1
+w 1
+e 1
+
+Number of people 2
+k 1
+f 1
+e 1
+u 1
+g 1
+h 2
+x 2
+d 1
+b 2
+v 1
+q 2
+r 1
+c 2
+w 1
+s 1
+l 1
+y 1
+z 1
+p 1
+o 1
+i 1
+t 1
+a 1
+
+Number of people 3
+o 3
+w 3
+g 3
+u 3
+e 3
+x 3
+h 3
+t 3
+c 3
+q 3
+k 3
+f 3
+p 3
+r 3
+i 3
+n 3
+b 3
+
+Number of people 4
+m 1
+u 1
+e 1
+v 1
+p 1
+y 4
+i 4
+d 2
+t 1
+z 1
+
+Number of people 2
+j 2
+z 2
+m 2
+d 2
+l 2
+i 2
+q 2
+
+Number of people 5
+h 5
+d 2
+a 1
+n 2
+w 1
+m 1
+s 1
+r 1
+p 1
+x 1
+q 1
+u 1
+o 1
+
+Number of people 4
+c 1
+g 4
+o 4
+v 4
+i 1
+a 1
+q 4
+u 1
+r 1
+n 1
+e 1
+d 1
+w 1
+s 1
+t 1
+
+Number of people 4
+t 4
+d 4
+i 4
+y 4
+j 4
+z 4
+c 4
+f 2
+k 4
+m 4
+p 2
+g 1
+h 1
+a 1
+b 1
+l 1
+x 1
+v 1
+
+Number of people 5
+v 1
+n 5
+k 5
+c 5
+r 5
+q 1
+e 2
+o 2
+p 1
+i 1
+b 1
+u 1
+w 1
+h 1
+a 1
+t 1
+g 1
+y 1
+
+Number of people 2
+f 1
+n 1
+b 2
+r 1
+i 2
+y 1
+p 2
+s 1
+x 1
+j 1
+g 1
+w 1
+
+Number of people 4
+q 2
+k 4
+s 1
+c 4
+j 4
+o 2
+t 2
+v 4
+a 1
+p 1
+y 1
+r 1
+
+Number of people 5
+i 5
+y 5
+q 5
+w 5
+u 5
+j 5
+x 5
+p 5
+g 5
+r 5
+l 5
+z 5
+b 5
+n 5
+t 5
+d 5
+s 5
+f 1
+m 5
+k 5
+o 1
+a 1
+v 1
+
+Number of people 5
+a 3
+i 5
+s 5
+c 1
+o 2
+r 5
+m 5
+n 2
+g 1
+h 1
+z 3
+t 1
+y 2
+e 1
+p 1
+u 1
+b 1
+d 1
+f 1
+l 1
+x 1
+w 1
+j 1
+k 1
+q 1
+
+Number of people 3
+s 3
+c 1
+m 1
+u 3
+d 3
+l 3
+i 3
+f 3
+r 3
+o 3
+v 3
+e 1
+h 1
+b 1
+z 1
+w 1
+n 1
+p 1
+j 2
+k 1
+x 1
+g 1
+t 1
+y 1
+
+Number of people 3
+c 3
+g 3
+u 3
+e 3
+z 1
+b 3
+v 3
+f 3
+x 3
+w 3
+l 3
+d 3
+r 3
+t 3
+k 3
+m 3
+n 3
+o 3
+a 3
+s 3
+y 1
+j 1
+i 1
+
+Number of people 4
+l 1
+d 1
+b 1
+r 4
+n 2
+f 4
+c 4
+i 1
+x 1
+e 1
+w 1
+
+Number of people 2
+r 2
+e 2
+f 2
+s 2
+k 1
+o 2
+a 2
+h 2
+z 2
+b 2
+y 2
+c 1
+d 2
+x 2
+u 1
+t 2
+m 1
+q 1
+p 1
+
+Number of people 3
+i 3
+q 3
+x 3
+d 3
+t 3
+n 3
+v 3
+s 3
+j 3
+h 3
+e 3
+b 3
+y 3
+k 3
+o 3
+r 3
+g 3
+c 3
+a 3
+m 3
+p 3
+
+Number of people 3
+i 3
+y 3
+h 3
+p 1
+u 3
+v 3
+d 3
+j 3
+w 3
+z 3
+e 3
+f 3
+b 3
+q 3
+m 3
+s 3
+o 3
+k 1
+
+Number of people 2
+j 2
+z 2
+b 2
+g 2
+o 2
+y 1
+u 2
+v 2
+n 2
+x 2
+k 2
+q 1
+h 1
+f 1
+d 1
+e 1
+p 1
+t 1
+w 1
+
+Number of people 2
+x 1
+n 1
+t 2
+e 2
+g 2
+w 1
+r 2
+b 1
+c 2
+o 1
+m 1
+y 1
+d 1
+u 1
+f 1
+z 1
+
+Number of people 4
+e 3
+u 2
+s 2
+o 1
+h 2
+b 1
+f 1
+v 1
+x 1
+g 1
+w 1
+i 1
+n 1
+c 1
+
+Number of people 3
+u 3
+z 3
+r 3
+d 1
+a 3
+o 3
+h 3
+c 3
+s 1
+k 3
+b 3
+x 3
+l 3
+f 1
+e 1
+p 1
+
+Number of people 3
+f 3
+v 3
+a 3
+t 1
+l 3
+w 2
+r 1
+s 1
+g 3
+u 3
+j 3
+y 3
+q 1
+k 1
+m 1
+d 1
+z 1
+c 1
+p 1
+n 1
+x 1
+h 1
+
+Number of people 2
+c 1
+s 2
+h 1
+p 1
+d 2
+q 1
+j 1
+v 1
+e 1
+
+Number of people 2
+b 2
+z 1
+r 1
+v 1
+e 1
+p 1
+c 2
+a 1
+n 2
+o 1
+w 2
+g 1
+q 1
+m 1
+x 1
+j 1
+u 1
+d 1
+t 1
+i 1
+h 1
+l 1
+
+Number of people 2
+g 2
+o 1
+n 2
+l 1
+x 1
+
+Number of people 4
+k 4
+u 4
+j 1
+b 4
+v 4
+x 4
+t 4
+o 1
+r 4
+m 4
+l 2
+y 2
+w 4
+d 4
+h 4
+f 4
+p 1
+z 1
+g 1
+i 1
+a 1
+n 1
+q 1
+c 1
+
+Number of people 2
+o 1
+r 2
+c 2
+t 2
+h 1
+
+Number of people 4
+s 1
+e 2
+m 1
+
+Number of people 3
+o 1
+u 1
+m 3
+q 1
+y 1
+i 3
+n 3
+p 3
+g 3
+h 3
+x 1
+j 1
+r 3
+b 1
+l 3
+t 3
+k 3
+c 3
+v 3
+f 3
+d 2
+s 2
+e 1
+a 1
+
+Number of people 2
+q 2
+a 1
+e 2
+h 2
+f 1
+
+Number of people 3
+z 3
+b 3
+t 3
+d 3
+q 3
+h 3
+m 1
+v 1
+o 3
+l 3
+x 3
+g 1
+n 2
+w 2
+
+Number of people 4
+n 1
+l 4
+d 4
+a 4
+p 4
+x 4
+z 4
+j 4
+g 4
+t 4
+c 4
+y 4
+s 4
+r 4
+m 4
+q 4
+f 4
+u 4
+i 4
+e 1
+
+Number of people 5
+n 5
+u 5
+g 1
+l 1
+
+Number of people 4
+a 4
+c 4
+x 4
+j 4
+r 4
+v 4
+f 4
+o 4
+d 4
+t 4
+y 4
+h 4
+p 4
+
+Number of people 5
+y 5
+a 5
+s 5
+l 5
+f 5
+e 5
+w 5
+b 5
+o 5
+x 1
+
+Number of people 3
+z 3
+r 2
+b 3
+d 3
+t 3
+c 2
+y 3
+p 3
+w 1
+l 1
+u 1
+e 1
+i 1
+x 1
+h 1
+j 1
+f 1
+g 1
+
+Number of people 3
+l 1
+t 2
+g 2
+y 3
+j 3
+z 3
+r 3
+b 1
+w 3
+x 3
+d 1
+f 1
+p 1
+v 1
+u 1
+m 1
+o 1
+q 1
+h 1
+a 1
+k 1
+c 1
+n 1
+
+Number of people 4
+w 3
+l 1
+s 4
+k 1
+c 4
+y 1
+q 2
+u 1
+r 1
+o 2
+f 1
+n 1
+h 2
+t 2
+e 1
+i 1
+p 1
+v 1
+b 1
+a 1
+j 1
+g 1
+x 1
+m 1
+
+Number of people 3
+i 3
+t 3
+s 3
+u 1
+f 1
+
+Number of people 4
+z 4
+j 4
+r 4
+m 4
+a 1
+q 4
+l 4
+k 1
+x 1
+g 1
+e 1
+d 1
+
+Number of people 3
+d 3
+m 1
+p 1
+b 1
+g 1
+o 1
+a 1
+v 1
+n 1
+s 1
+z 1
+j 1
+y 1
+r 2
+i 1
+l 2
+u 1
+h 1
+
+Number of people 2
+m 2
+e 1
+p 2
+c 2
+d 2
+l 1
+g 1
+o 2
+b 2
+u 2
+n 2
+h 1
+k 1
+i 1
+f 1
+
+Number of people 2
+e 1
+g 1
+w 1
+a 1
+i 2
+l 1
+v 1
+r 1
+p 1
+c 1
+y 1
+
+Number of people 4
+t 4
+i 4
+z 4
+b 4
+h 4
+f 1
+g 4
+u 4
+c 4
+k 4
+m 4
+s 4
+p 4
+d 4
+q 4
+o 4
+j 4
+l 4
+a 4
+e 4
+
+Number of people 4
+m 4
+e 4
+d 4
+j 4
+o 4
+w 4
+n 4
+x 4
+k 2
+g 4
+p 4
+a 4
+l 4
+y 1
+f 1
+s 1
+h 1
+t 1
+
+Number of people 3
+j 3
+r 3
+f 3
+v 3
+g 3
+w 3
+e 3
+d 3
+z 3
+a 3
+q 3
+o 3
+c 3
+m 3
+t 3
+b 1
+y 1
+
+Number of people 5
+t 5
+u 1
+e 5
+g 1
+w 1
+c 1
+k 1
+f 1
+
+Number of people 3
+c 3
+f 1
+n 2
+m 2
+a 1
+y 2
+i 3
+b 3
+s 1
+t 1
+d 1
+e 1
+v 1
+w 1
+u 1
+z 1
+
+Number of people 5
+i 2
+z 1
+j 3
+g 1
+p 1
+h 1
+
+Number of people 5
+t 5
+l 5
+s 5
+j 5
+u 1
+
+Number of people 5
+p 2
+t 1
+l 2
+i 1
+c 1
+r 1
+f 1
+e 1
+x 1
+b 1
+u 1
+m 1
+q 1
+j 1
+o 1
+k 1
+y 1
+z 1
+h 1
+n 1
+s 1
+w 1
+g 1
+a 1
+v 1
+d 1
+
+Number of people 5
+a 1
+i 5
+q 5
+h 5
+j 1
+b 5
+f 1
+l 1
+
+Number of people 2
+g 2
+o 2
+c 2
+s 2
+z 2
+b 2
+v 2
+n 2
+j 2
+t 2
+f 2
+y 2
+i 2
+r 2
+h 2
+e 2
+x 2
+p 2
+k 2
+u 2
+a 2
+d 2
+m 2
+l 2
+
+Number of people 5
+u 5
+s 5
+o 5
+g 5
+z 5
+b 5
+i 1
+q 5
+m 1
+
+Number of people 4
+k 4
+c 1
+q 4
+i 4
+e 4
+n 4
+v 4
+o 4
+x 4
+l 4
+u 4
+m 4
+g 4
+f 4
+r 4
+j 4
+a 1
+y 4
+d 1
+b 1
+w 1
+p 1
+t 1
+z 1
+h 1
+
+Number of people 5
+e 5
+s 5
+w 5
+
+Number of people 5
+r 5
+j 5
+d 1
+q 2
+i 5
+k 5
+g 1
+e 1
+
+Number of people 5
+n 5
+s 5
+j 5
+a 5
+i 5
+q 5
+t 5
+u 5
+k 5
+h 5
+y 5
+f 5
+d 5
+x 5
+o 5
+l 5
+e 5
+v 5
+c 5
+g 5
+z 5
+b 1
+w 1
+
+Number of people 2
+s 2
+m 1
+w 1
+z 1
+
+Number of people 2
+u 2
+e 2
+q 2
+s 2
+c 2
+h 2
+x 2
+j 2
+v 2
+r 2
+z 2
+y 2
+n 2
+g 2
+p 2
+
+Number of people 3
+g 3
+w 2
+u 3
+e 1
+r 1
+t 1
+p 1
+
+Number of people 5
+t 5
+e 5
+c 5
+s 5
+n 5
+f 5
+a 5
+r 5
+d 5
+l 1
+h 5
+z 5
+o 5
+y 5
+m 5
+v 3
+b 2
+u 1
+
+Number of people 4
+h 4
+v 4
+q 4
+a 4
+u 4
+e 4
+r 4
+t 4
+g 4
+p 4
+l 4
+c 4
+d 4
+b 4
+n 4
+k 4
+j 4
+o 4
+x 4
+y 4
+s 4
+i 4
+w 4
+f 4
+z 1
+m 1
+
+Number of people 3
+z 3
+r 3
+s 1
+e 3
+t 3
+h 3
+f 3
+a 3
+i 1
+v 3
+q 1
+p 3
+j 3
+l 3
+b 3
+c 3
+y 3
+d 1
+o 1
+
+Number of people 5
+i 5
+z 5
+l 5
+t 1
+n 5
+f 1
+g 5
+c 5
+w 5
+q 1
+s 1
+p 5
+u 2
+h 1
+y 1
+k 1
+
+Number of people 2
+b 2
+j 1
+i 2
+a 1
+v 2
+x 1
+p 2
+s 1
+m 1
+l 2
+t 1
+o 2
+y 1
+h 1
+z 1
+d 1
+e 1
+u 1
+w 1
+
+Number of people 4
+x 4
+y 4
+r 4
+z 4
+f 1
+n 4
+c 4
+t 4
+g 1
+s 1
+m 1
+l 1
+
+Number of people 4
+d 4
+e 4
+a 4
+y 4
+n 4
+v 4
+x 4
+s 4
+f 4
+k 4
+r 4
+c 4
+q 1
+w 1
+
+Number of people 5
+h 5
+p 5
+x 5
+d 5
+l 5
+g 5
+e 1
+v 5
+a 5
+z 5
+m 5
+y 5
+q 1
+c 1
+s 5
+b 5
+o 5
+k 1
+u 1
+
+Number of people 3
+z 3
+v 1
+
+Number of people 5
+q 5
+z 5
+r 5
+c 5
+k 5
+t 5
+l 5
+v 5
+f 5
+w 5
+g 5
+a 5
+j 5
+s 5
+o 5
+p 5
+n 5
+d 5
+u 5
+x 5
+e 5
+y 5
+b 5
+h 1
+
+Number of people 2
+x 2
+h 2
+o 2
+m 2
+u 2
+r 2
+c 2
+n 2
+i 2
+d 1
+w 1
+z 2
+e 2
+f 2
+g 2
+j 2
+s 2
+p 2
+y 2
+a 1
+k 1
+
+Number of people 3
+n 3
+f 3
+j 3
+l 3
+x 3
+p 3
+a 3
+o 3
+k 3
+y 1
+h 3
+
+Number of people 5
+n 2
+v 5
+c 5
+s 5
+w 5
+x 1
+m 1
+e 5
+d 5
+g 2
+z 5
+l 5
+b 5
+q 1
+t 5
+r 5
+k 2
+o 5
+j 5
+y 2
+i 2
+u 1
+a 1
+p 1
+f 1
+
+Number of people 5
+g 1
+o 5
+x 1
+b 5
+v 5
+f 5
+i 1
+m 5
+h 1
+r 1
+l 1
+p 1
+n 1
+
+Number of people 5
+t 2
+d 1
+a 1
+o 2
+n 1
+
+Number of people 2
+b 2
+t 2
+d 2
+u 2
+f 2
+i 2
+
+Number of people 5
+b 2
+j 5
+r 5
+p 5
+h 2
+g 5
+o 5
+u 5
+v 2
+c 1
+y 1
+a 1
+n 1
+z 1
+w 1
+t 1
+f 1
+s 1
+
+Number of people 3
+w 3
+g 3
+q 3
+y 3
+i 3
+d 3
+c 3
+r 3
+s 3
+h 1
+k 1
+m 1
+
+Number of people 4
+u 1
+q 1
+y 2
+b 1
+x 2
+n 1
+f 2
+d 2
+m 4
+z 1
+i 1
+l 1
+r 1
+t 1
+p 1
+
+Number of people 3
+c 1
+d 2
+j 3
+z 2
+u 1
+m 2
+x 1
+a 1
+g 1
+h 1
+l 1
+y 1
+v 1
+t 1
+o 1
+k 1
+s 1
+r 1
+
+Number of people 5
+p 5
+h 5
+b 5
+k 5
+d 5
+t 5
+o 5
+e 5
+r 5
+j 5
+s 5
+l 5
+v 5
+m 5
+f 5
+c 5
+n 5
+q 5
+a 5
+g 5
+x 5
+u 5
+y 5
+w 5
+z 5
+i 5
+
+Number of people 2
+f 1
+n 1
+m 1
+e 1
+b 1
+h 1
+w 1
+t 1
+k 1
+y 1
+j 1
+z 1
+o 1
+s 1
+
+Number of people 2
+e 1
+u 1
+x 1
+w 1
+o 1
+c 2
+s 1
+j 1
+y 1
+v 1
+k 1
+a 1
+z 1
+t 1
+i 1
+r 1
+n 1
+
+Number of people 2
+q 2
+a 2
+p 2
+o 2
+w 2
+k 2
+t 2
+n 2
+v 2
+e 2
+i 2
+m 2
+z 1
+f 2
+l 2
+r 2
+j 2
+b 2
+c 2
+d 2
+u 2
+s 2
+x 2
+y 2
+h 2
+g 2
+
+Number of people 4
+r 4
+j 4
+y 1
+i 1
+q 4
+c 1
+k 4
+f 1
+x 1
+t 1
+n 1
+g 1
+d 1
+e 1
+
+Number of people 5
+f 5
+k 5
+s 5
+r 5
+q 5
+p 5
+x 5
+m 2
+h 5
+n 5
+i 5
+d 5
+b 5
+z 5
+l 5
+a 5
+g 5
+j 1
+e 1
+y 1
+o 1
+
+Number of people 3
+w 3
+g 3
+l 3
+d 3
+b 3
+x 3
+c 3
+m 3
+u 3
+j 3
+o 2
+v 3
+a 3
+y 3
+h 3
+z 3
+n 1
+f 1
+i 1
+q 1
+k 1
+p 1
+t 1
+
+Number of people 4
+h 4
+d 1
+l 4
+g 4
+j 4
+b 4
+m 2
+s 1
+y 1
+w 1
+x 1
+i 1
+
+Number of people 2
+j 1
+r 1
+t 1
+q 1
+i 1
+n 1
+v 2
+g 1
+d 1
+x 1
+h 1
+s 1
+a 1
+
+Number of people 5
+y 5
+i 1
+o 5
+s 1
+c 5
+x 5
+l 5
+d 5
+h 5
+q 5
+t 5
+j 5
+k 1
+e 5
+z 5
+p 5
+b 5
+u 5
+a 5
+w 5
+g 5
+r 1
+m 5
+n 5
+
+Number of people 3
+m 1
+o 1
+g 1
+v 1
+f 1
+c 2
+p 1
+y 1
+n 1
+e 1
+r 1
+h 1
+z 1
+s 1
+
+Number of people 2
+u 2
+e 2
+m 2
+k 2
+c 2
+y 2
+a 2
+l 2
+q 1
+j 2
+x 2
+r 2
+s 2
+i 1
+
+Number of people 4
+i 1
+a 1
+z 4
+d 4
+c 4
+x 4
+p 2
+e 4
+j 4
+w 4
+l 2
+h 4
+r 4
+g 4
+v 4
+k 4
+o 1
+u 1
+f 1
+b 1
+s 1
+q 1
+
+Number of people 4
+i 1
+f 1
+n 4
+c 2
+h 1
+t 3
+e 4
+o 1
+w 4
+p 1
+z 1
+l 1
+b 1
+d 1
+s 1
+m 1
+v 1
+q 1
+a 1
+j 1
+y 1
+
+Number of people 3
+e 3
+w 2
+g 1
+t 3
+l 2
+k 3
+c 2
+j 3
+u 3
+b 3
+h 2
+x 1
+o 2
+z 1
+v 1
+f 1
+i 1
+q 1
+a 1
+r 1
+d 1
+p 1
+n 1
+s 1
+y 1
+m 1
+
+Number of people 3
+q 1
+c 2
+s 1
+d 1
+u 1
+
+Number of people 3
+z 3
+u 3
+m 1
+v 1
+f 1
+s 1
+q 1
+l 3
+x 1
+b 1
+n 2
+y 1
+t 1
+d 1
+
+Number of people 5
+w 5
+l 5
+d 5
+c 5
+k 5
+s 5
+e 5
+p 5
+g 5
+n 5
+t 5
+u 5
+z 5
+o 1
+r 1
+b 1
+f 1
+x 1
+j 1
+h 1
+v 1
+m 1
+q 1
+
+Number of people 2
+o 2
+y 2
+z 1
+b 1
+p 1
+u 1
+n 2
+f 2
+i 2
+j 2
+d 1
+w 1
+m 1
+s 1
+v 1
+x 1
+e 1
+c 1
+g 1
+h 1
+
+Number of people 4
+i 1
+q 4
+v 1
+n 4
+z 4
+b 4
+l 4
+c 1
+t 4
+g 4
+x 1
+y 1
+e 1
+r 1
+j 1
+a 1
+h 1
+
+Number of people 4
+a 2
+i 4
+q 4
+y 4
+c 1
+j 4
+n 4
+o 4
+s 4
+g 1
+
+Number of people 3
+k 3
+z 3
+b 3
+e 3
+a 3
+x 3
+h 3
+p 3
+v 3
+r 3
+d 3
+c 3
+l 3
+s 3
+f 3
+o 3
+y 3
+q 3
+m 3
+w 3
+i 3
+n 3
+g 3
+u 3
+
+Number of people 4
+b 1
+r 4
+z 4
+d 2
+m 1
+u 2
+i 2
+x 1
+s 1
+l 1
+g 1
+c 1
+o 1
+p 1
+f 1
+
+Number of people 2
+z 1
+r 2
+i 2
+m 2
+s 2
+h 2
+n 2
+g 2
+t 2
+l 2
+k 2
+y 2
+e 2
+w 2
+d 1
+p 2
+j 1
+u 2
+a 1
+o 1
+q 1
+x 1
+c 1
+
+Number of people 4
+r 4
+t 4
+l 4
+c 4
+s 4
+o 4
+f 1
+n 4
+e 4
+g 4
+w 4
+p 2
+d 4
+y 1
+i 4
+z 1
+k 1
+b 1
+u 1
+a 1
+q 1
+h 1
+x 1
+m 1
+
+Number of people 4
+s 1
+k 4
+z 1
+b 2
+n 1
+f 3
+x 4
+w 1
+q 1
+
+Number of people 2
+q 2
+a 2
+i 2
+m 2
+l 2
+o 2
+v 2
+r 2
+c 2
+k 2
+d 2
+f 2
+g 2
+s 2
+x 2
+u 2
+z 2
+t 2
+n 2
+w 2
+p 2
+b 2
+y 2
+j 2
+e 2
+h 2
+
+Number of people 5
+c 3
+a 1
+r 1
+b 1
+g 1
+
+Number of people 4
+o 4
+e 4
+u 4
+v 1
+p 1
+
+Number of people 2
+l 1
+d 2
+e 1
+k 1
+q 1
+a 2
+f 1
+b 1
+t 1
+g 1
+y 1
+i 1
+s 1
+o 1
+w 1
+m 1
+n 1
+
+Number of people 2
+r 1
+b 2
+j 2
+z 2
+m 2
+e 2
+c 2
+h 2
+y 2
+w 2
+k 2
+s 1
+l 1
+i 2
+d 1
+g 1
+q 1
+u 1
+t 1
+x 1
+
+Number of people 2
+z 2
+r 1
+b 1
+s 2
+n 1
+
+Number of people 3
+n 3
+f 3
+r 3
+b 3
+a 3
+y 3
+c 3
+m 3
+q 3
+z 1
+h 1
+t 1
+u 3
+k 1
+g 1
+w 1
+s 1
+l 1
+
+Number of people 5
+m 4
+f 1
+
+Number of people 4
+z 4
+
+Number of people 4
+r 2
+z 4
+o 4
+y 4
+n 4
+e 4
+u 4
+k 4
+l 4
+s 4
+m 4
+x 4
+v 4
+a 1
+f 1
+q 2
+c 1
+b 1
+i 1
+p 1
+w 1
+j 1
+t 1
+d 1
+h 1
+g 1
+
+Number of people 3
+m 3
+b 3
+f 1
+v 3
+d 1
+k 1
+
+Number of people 3
+i 3
+r 3
+g 1
+w 1
+n 1
+
+Number of people 3
+s 3
+q 3
+z 3
+j 3
+b 3
+r 3
+l 3
+g 3
+a 3
+t 3
+e 3
+y 3
+v 3
+m 3
+w 3
+
+Number of people 2
+u 2
+m 1
+c 2
+f 2
+y 2
+j 2
+w 2
+
+Number of people 5
+b 5
+j 1
+x 5
+k 5
+s 5
+c 5
+d 1
+a 5
+w 1
+u 1
+v 2
+i 1
+y 1
+z 1
+r 1
+m 1
+o 1
+h 1
+f 1
+g 1
+
+Number of people 4
+n 4
+i 4
+u 4
+s 4
+k 4
+d 4
+j 4
+o 4
+c 4
+x 4
+b 4
+a 4
+q 4
+f 4
+z 4
+l 4
+g 1
+y 4
+m 1
+
+Number of people 2
+a 2
+i 2
+y 2
+m 2
+b 2
+s 1
+c 2
+l 2
+k 2
+d 2
+x 2
+n 2
+j 2
+w 1
+u 1
+t 1
+o 1
+g 1
+q 1
+f 1
+v 1
+r 1
+
+Number of people 5
+e 5
+u 5
+g 5
+x 5
+j 5
+d 5
+q 5
+a 5
+h 5
+o 5
+m 5
+z 5
+p 5
+f 5
+
+Number of people 5
+b 5
+i 5
+v 5
+
+Number of people 4
+a 4
+q 4
+i 4
+b 4
+j 4
+h 4
+m 4
+k 4
+g 4
+o 1
+f 1
+n 1
+t 1
+y 1
+e 1
+
+Number of people 5
+m 1
+f 5
+n 5
+a 5
+l 5
+t 1
+x 5
+r 1
+c 1
+g 5
+s 5
+k 1
+e 5
+p 5
+v 1
+u 2
+i 2
+b 1
+q 1
+
+Number of people 5
+y 2
+q 1
+a 5
+s 1
+e 1
+m 1
+d 1
+b 1
+r 1
+h 2
+u 2
+z 1
+w 1
+
+Number of people 5
+p 5
+n 1
+f 5
+r 5
+l 5
+i 5
+
+Number of people 3
+c 3
+e 3
+w 3
+o 1
+f 3
+v 3
+d 3
+q 1
+x 3
+m 1
+i 3
+h 3
+k 1
+g 1
+a 1
+z 1
+u 1
+j 1
+p 1
+r 1
+b 1
+
+Number of people 4
+m 4
+u 4
+e 4
+x 4
+p 1
+a 4
+t 4
+b 4
+c 4
+g 1
+q 1
+o 1
+n 1
+d 1
+z 1
+h 1
+j 1
+v 1
+k 1
+r 1
+w 1
+
+Number of people 3
+f 1
+g 1
+u 1
+j 1
+z 1
+b 3
+l 3
+q 1
+r 1
+t 1
+h 2
+s 2
+p 2
+n 1
+o 1
+d 1
+
+Number of people 2
+g 2
+c 2
+d 2
+
+Number of people 4
+k 1
+s 2
+f 1
+v 1
+o 1
+p 1
+h 1
+l 1
+q 1
+x 1
+d 1
+g 1
+y 1
+
+Number of people 3
+r 3
+c 3
+
+Number of people 4
+y 1
+a 4
+x 1
+p 4
+m 1
+l 4
+n 1
+w 4
+c 1
+
+Number of people 4
+g 4
+q 4
+m 4
+u 4
+k 1
+
+Number of people 4
+f 4
+
+Number of people 5
+d 5
+l 5
+z 2
+v 3
+n 5
+g 5
+u 5
+p 5
+q 5
+i 5
+o 5
+b 5
+m 2
+h 1
+e 1
+x 1
+j 1
+t 1
+c 1
+
+Number of people 4
+y 4
+q 4
+s 1
+r 4
+b 4
+m 1
+e 1
+x 1
+j 4
+u 4
+t 4
+c 1
+h 4
+d 1
+f 4
+l 1
+p 1
+
+Number of people 3
+x 3
+h 1
+b 3
+j 3
+r 1
+l 1
+s 1
+e 1
+d 1
+g 1
+a 1
+
+Number of people 4
+x 4
+p 1
+j 4
+z 4
+b 4
+d 4
+k 4
+s 4
+a 1
+o 2
+
+Number of people 4
+w 4
+d 1
+l 4
+v 1
+n 1
+a 1
+q 1
+s 1
+c 1
+o 1
+f 1
+e 1
+b 1
+y 1
+
+Number of people 2
+v 1
+n 2
+g 1
+u 1
+e 2
+y 2
+h 1
+k 2
+o 1
+p 1
+c 1
+m 1
+s 1
+d 1
+b 1
+i 1
+w 1
+
+Number of people 4
+p 4
+x 4
+u 4
+y 1
+k 4
+o 4
+b 2
+d 4
+c 1
+l 1
+
+Number of people 2
+e 1
+u 2
+d 2
+n 1
+v 2
+h 2
+g 2
+a 1
+x 1
+f 1
+p 1
+
+Number of people 3
+z 3
+r 3
+h 3
+v 1
+u 3
+m 3
+g 1
+a 3
+x 1
+k 3
+d 1
+b 3
+c 3
+j 1
+o 1
+q 1
+w 1
+n 1
+
+Number of people 3
+m 3
+d 3
+
+Number of people 5
+v 5
+k 5
+s 5
+c 1
+h 5
+z 1
+i 1
+m 1
+
+Number of people 4
+d 4
+u 1
+n 4
+r 1
+h 4
+x 4
+a 4
+i 4
+b 4
+f 4
+q 1
+
+Number of people 3
+r 1
+x 1
+p 1
+l 1
+g 1
+i 1
+
+Number of people 3
+n 3
+h 3
+x 1
+p 3
+k 3
+d 1
+l 3
+g 1
+j 1
+t 1
+f 1
+
+Number of people 4
+j 1
+o 4
+w 1
+x 4
+n 1
+m 4
+l 4
+i 1
+p 4
+b 1
+u 1
+s 1
+z 1
+v 2
+g 3
+h 1
+k 1
+a 1
+f 2
+d 2
+r 2
+e 1
+t 1
+q 1
+c 1
+y 1
+
+Number of people 4
+p 4
+
+Number of people 4
+c 4
+f 4
+n 4
+v 4
+i 4
+p 4
+b 1
+w 4
+d 4
+e 4
+m 4
+r 4
+l 4
+j 4
+u 4
+g 4
+a 4
+k 4
+o 1
+y 1
+
+Number of people 5
+z 1
+d 4
+
+Number of people 3
+d 1
+l 2
+n 3
+f 3
+c 3
+b 3
+q 3
+w 3
+g 1
+k 1
+
+Number of people 4
+v 1
+f 2
+p 1
+h 2
+w 1
+o 3
+z 1
+s 2
+i 1
+d 1
+y 1
+b 1
+u 1
+t 1
+n 1
+
+Number of people 5
+l 5
+d 5
+n 2
+f 2
+j 5
+x 5
+w 5
+k 1
+y 2
+h 1
+g 1
+v 1
+s 1
+o 1
+i 1
+r 1
+p 1
+q 1
+t 1
+z 1
+u 1
+
+Number of people 3
+p 3
+q 1
+
+Number of people 3
+q 1
+k 3
+w 1
+v 1
+e 1
+m 1
+x 3
+l 2
+h 2
+n 1
+c 1
+r 1
+z 1
+j 1
+y 1
+
+Number of people 3
+j 1
+b 3
+o 1
+w 1
+n 3
+f 3
+u 3
+k 3
+p 1
+c 1
+d 3
+x 3
+e 3
+m 3
+i 1
+z 1
+g 3
+l 3
+q 3
+v 3
+y 3
+t 2
+h 1
+r 1
+a 1
+s 1
+
+Number of people 2
+n 2
+f 2
+e 2
+m 2
+q 1
+y 2
+s 2
+z 2
+i 2
+l 2
+o 2
+t 2
+b 2
+x 2
+w 2
+d 2
+h 2
+
+Number of people 5
+m 2
+e 1
+h 1
+d 5
+b 5
+o 5
+w 5
+n 2
+x 2
+a 2
+s 2
+k 1
+l 2
+z 1
+f 1
+r 1
+g 1
+i 1
+c 1
+u 1
+t 1
+y 1
+q 1
+v 1
+p 1
+
+Number of people 2
+h 2
+l 1
+t 1
+e 1
+v 1
+c 1
+r 1
+
+Number of people 5
+e 5
+f 1
+
+Number of people 3
+o 3
+k 3
+z 3
+j 3
+e 2
+u 2
+v 3
+t 3
+g 2
+m 3
+h 3
+r 1
+i 2
+q 3
+n 1
+a 1
+y 1
+b 1
+l 1
+w 1
+p 1
+s 1
+
+Number of people 4
+r 4
+j 4
+z 4
+u 4
+m 4
+o 4
+h 4
+d 1
+t 1
+p 1
+
+Number of people 2
+o 2
+g 1
+i 2
+y 2
+m 1
+k 1
+s 2
+l 2
+z 2
+u 1
+p 1
+v 1
+r 1
+
+Number of people 2
+k 2
+o 1
+v 2
+f 2
+
+Number of people 5
+s 5
+g 2
+u 1
+
+Number of people 2
+w 1
+p 1
+
+Number of people 2
+x 1
+s 2
+f 1
+i 2
+j 1
+z 1
+l 2
+g 1
+o 1
+d 1
+p 1
+c 1
+u 1
+
+Number of people 5
+t 3
+d 5
+p 1
+n 3
+w 1
+o 1
+u 1
+m 1
+s 1
+z 2
+c 1
+h 1
+g 1
+a 1
+r 1
+b 1
+q 1
+e 1
+v 1
+x 1
+l 1
+j 1
+f 1
+i 1
+k 1
+y 1
+
+Number of people 3
+w 3
+h 3
+m 3
+z 3
+r 3
+s 3
+k 3
+t 3
+c 3
+j 3
+e 3
+f 3
+l 3
+d 3
+n 3
+p 3
+q 3
+o 3
+v 3
+i 3
+a 3
+y 3
+u 3
+x 3
+b 3
+
+Number of people 5
+b 5
+f 5
+u 5
+p 5
+x 5
+h 5
+t 5
+a 5
+e 5
+l 5
+k 5
+z 5
+w 5
+
+Number of people 3
+w 1
+g 3
+z 3
+b 1
+v 3
+h 1
+e 3
+c 1
+i 1
+a 2
+s 1
+o 1
+d 2
+n 1
+u 1
+f 1
+j 1
+r 1
+
+Number of people 3
+g 2
+w 3
+x 3
+h 1
+s 1
+d 1
+t 2
+b 1
+l 2
+y 1
+n 1
+z 1
+i 1
+a 1
+q 1
+m 1
+c 1
+o 1
+j 1
+k 1
+v 1
+p 1
+f 1
+u 1
+
+Number of people 5
+y 1
+q 5
+h 5
+m 5
+e 1
+
+Number of people 3
+s 1
+c 1
+n 1
+d 1
+t 1
+p 1
+q 1
+i 2
+x 1
+j 1
+r 1
+v 1
+z 1
+h 1
+l 1
+a 1
+u 1
+b 1
+e 1
+g 1
+o 1
+w 1
+
+Number of people 3
+b 3
+j 3
+w 3
+g 3
+n 3
+k 3
+x 3
+h 3
+l 3
+q 3
+s 3
+c 3
+f 3
+d 3
+
+Number of people 4
+l 4
+d 4
+q 4
+i 4
+y 4
+c 4
+r 4
+z 4
+k 4
+x 4
+g 4
+s 1
+a 1
+f 1
+
+Number of people 4
+q 4
+o 2
+g 1
+x 4
+h 4
+p 2
+n 4
+b 2
+j 1
+d 1
+w 1
+u 1
+s 1
+
+Number of people 3
+k 3
+a 3
+r 3
+l 3
+t 3
+d 3
+o 3
+m 3
+y 3
+c 3
+w 3
+u 3
+j 3
+e 3
+f 3
+g 3
+b 3
+i 3
+q 3
+p 3
+s 3
+h 3
+z 3
+v 3
+n 3
+
+Number of people 3
+z 1
+d 3
+t 1
+c 1
+f 1
+
+Number of people 5
+p 5
+y 5
+n 5
+v 5
+z 5
+b 5
+r 5
+w 5
+x 5
+t 5
+s 5
+e 5
+o 5
+a 5
+f 5
+q 5
+h 5
+u 5
+c 5
+g 5
+j 1
+d 1
+
+Number of people 5
+o 5
+n 5
+v 5
+i 5
+q 5
+b 5
+l 5
+p 2
+k 5
+m 1
+t 1
+c 1
+w 1
+f 1
+s 1
+z 1
+r 1
+e 1
+h 2
+y 1
+g 1
+
+Number of people 2
+r 1
+b 1
+f 1
+e 1
+u 1
+k 1
+t 1
+g 1
+p 2
+i 1
+q 1
+o 1
+m 1
+d 1
+y 1
+z 1
+j 1
+x 1
+c 1
+h 1
+l 1
+
+Number of people 2
+h 2
+d 2
+v 2
+j 2
+b 2
+z 2
+g 2
+u 2
+i 2
+o 2
+y 2
+c 2
+t 2
+s 2
+q 2
+a 2
+x 2
+r 2
+p 2
+m 2
+
+Number of people 4
+s 4
+e 4
+a 4
+q 4
+z 4
+t 4
+x 4
+f 4
+d 4
+i 4
+m 4
+b 1
+r 1
+
+Number of people 2
+t 1
+l 1
+f 2
+o 2
+r 1
+s 1
+a 1
+q 2
+j 1
+n 2
+d 1
+z 2
+u 1
+e 1
+b 2
+y 2
+p 2
+v 2
+w 1
+c 1
+i 1
+k 1
+g 1
+x 1
+
+Number of people 2
+g 1
+a 2
+z 1
+
+Number of people 3
+i 1
+x 3
+m 2
+u 2
+j 1
+r 3
+g 2
+n 2
+w 1
+z 2
+e 1
+l 1
+v 1
+a 1
+f 1
+o 1
+s 1
+t 1
+k 1
+d 1
+
+Number of people 3
+s 3
+m 3
+h 3
+v 3
+b 3
+i 1
+d 3
+w 3
+g 1
+u 1
+p 1
+x 3
+e 3
+q 1
+c 1
+z 1
+o 1
+f 1
+j 1
+k 1
+
+Number of people 3
+y 3
+q 3
+h 3
+r 1
+b 1
+j 3
+e 1
+u 1
+a 1
+t 1
+d 1
+z 1
+i 1
+x 1
+
+Number of people 5
+g 5
+x 1
+r 1
+c 1
+
+Number of people 3
+x 3
+m 3
+c 3
+g 3
+w 3
+b 3
+f 3
+v 3
+z 3
+s 3
+l 3
+t 1
+d 3
+q 3
+n 3
+i 3
+h 3
+e 3
+y 3
+k 3
+u 1
+r 1
+o 1
+a 1
+
+Number of people 3
+t 3
+m 3
+n 3
+v 3
+i 3
+q 3
+j 3
+p 3
+z 3
+r 3
+l 3
+b 3
+f 3
+u 3
+
+Number of people 3
+c 1
+o 2
+l 1
+p 1
+x 2
+b 3
+n 3
+v 2
+s 1
+a 2
+j 3
+z 1
+m 1
+t 1
+d 1
+h 1
+i 1
+w 1
+q 1
+k 1
+f 1
+g 1
+
+Number of people 5
+y 1
+r 1
+b 2
+d 1
+v 1
+
+Number of people 4
+e 4
+o 4
+j 4
+q 4
+y 4
+s 3
+k 4
+f 4
+i 4
+x 4
+w 4
+g 1
+z 1
+v 1
+c 1
+m 1
+r 1
+p 1
+
+Number of people 2
+w 2
+g 2
+y 2
+f 2
+
+Number of people 2
+l 1
+t 1
+r 2
+j 1
+a 1
+q 2
+g 2
+p 2
+w 2
+x 2
+h 2
+k 2
+z 2
+y 2
+c 2
+i 1
+f 1
+
+Number of people 3
+q 3
+y 3
+x 3
+l 3
+k 3
+g 3
+
+Number of people 3
+y 3
+c 3
+m 3
+u 3
+e 1
+g 3
+w 1
+b 3
+f 3
+x 3
+l 1
+d 1
+v 1
+s 1
+p 1
+
+Number of people 3
+b 1
+z 3
+
+Number of people 4
+p 4
+c 4
+b 2
+z 2
+d 1
+t 4
+m 4
+f 4
+s 4
+j 4
+i 4
+a 4
+q 4
+w 4
+e 2
+k 1
+o 1
+l 1
+u 1
+r 1
+g 1
+h 1
+v 1
+y 1
+n 1
+
+Number of people 4
+u 4
+a 4
+k 1
+s 3
+j 1
+r 1
+f 1
+h 1
+g 1
+
+Number of people 5
+l 5
+d 5
+i 5
+e 5
+m 1
+w 5
+s 2
+n 5
+h 5
+q 5
+b 5
+k 1
+j 1
+y 1
+u 1
+x 1
+t 1
+z 1
+v 1
+f 1
+p 1
+g 1
+r 1
+c 1
+o 1
+
+Number of people 5
+i 5
+c 5
+n 2
+f 5
+o 5
+u 5
+m 5
+t 5
+q 1
+r 5
+b 1
+g 1
+x 1
+d 1
+p 1
+w 1
+s 1
+v 1
+a 1
+j 1
+y 1
+l 1
+z 1
+h 1
+
+Number of people 2
+k 1
+c 2
+q 1
+i 1
+o 2
+j 1
+
+Number of people 4
+u 1
+n 1
+v 1
+f 4
+r 1
+a 1
+q 4
+p 1
+z 1
+i 2
+o 1
+g 1
+j 1
+t 2
+s 2
+c 1
+
+Number of people 5
+v 2
+y 1
+o 5
+z 5
+x 1
+h 1
+s 1
+e 1
+a 1
+u 1
+n 1
+g 1
+c 2
+d 1
+t 1
+q 1
+
+Number of people 2
+r 2
+i 1
+y 2
+
+Number of people 5
+s 1
+c 2
+d 1
+t 2
+y 1
+a 2
+e 1
+j 1
+m 1
+u 1
+z 1
+w 1
+v 1
+g 1
+p 1
+r 1
+q 1
+
+Number of people 5
+d 5
+t 5
+i 2
+e 5
+j 5
+b 5
+k 5
+f 5
+r 5
+g 5
+v 5
+c 2
+p 1
+a 1
+z 1
+m 1
+x 1
+h 1
+w 1
+u 1
+n 2
+y 1
+s 1
+o 1
+
+Number of people 2
+e 1
+c 1
+g 1
+n 1
+b 1
+y 1
+
+Number of people 2
+g 1
+z 1
+j 1
+p 1
+i 1
+l 1
+f 2
+k 2
+e 1
+
+Number of people 4
+u 4
+m 1
+b 4
+z 4
+f 1
+n 4
+a 4
+w 4
+
+Number of people 5
+w 1
+g 5
+o 5
+r 5
+d 2
+t 2
+f 5
+x 1
+b 1
+k 1
+p 1
+y 1
+s 1
+c 1
+e 1
+m 1
+a 1
+j 1
+h 1
+
+Number of people 4
+q 4
+k 4
+
+Number of people 4
+e 4
+g 4
+o 4
+k 4
+n 1
+x 4
+z 4
+d 4
+u 4
+
+Number of people 3
+d 3
+l 1
+r 1
+a 1
+y 1
+c 3
+o 3
+m 1
+k 3
+h 3
+j 3
+f 3
+x 3
+i 1
+p 1
+v 2
+u 1
+w 2
+g 1
+n 1
+s 1
+z 1
+
+Number of people 2
+u 1
+v 1
+
+Number of people 4
+j 2
+n 1
+f 4
+p 4
+t 4
+d 1
+l 4
+i 2
+h 4
+r 4
+u 4
+q 2
+z 4
+c 4
+s 4
+m 4
+k 1
+g 1
+b 1
+a 1
+y 1
+e 1
+v 1
+x 1
+w 1
+
+Number of people 2
+q 1
+f 2
+
+Number of people 5
+w 2
+c 1
+y 1
+i 2
+r 1
+m 1
+h 1
+t 1
+k 1
+p 1
+
+Number of people 2
+q 2
+r 2
+d 2
+h 2
+w 2
+f 2
+
+Number of people 3
+r 3
+s 1
+q 1
+a 1
+d 1
+m 1
+
+Number of people 2
+n 1
+c 1
+s 1
+k 1
+d 1
+p 1
+u 1
+
+Number of people 4
+u 4
+a 4
+q 4
+r 4
+j 4
+g 4
+p 1
+v 1
+e 1
+o 1
+x 1
+w 1
+f 1
+l 2
+d 1
+
+Number of people 2
+u 1
+m 2
+j 2
+a 2
+y 2
+l 2
+t 2
+c 2
+n 2
+o 1
+x 2
+h 2
+b 1
+v 1
+
+Number of people 5
+w 5
+l 1
+d 5
+s 5
+i 5
+a 5
+r 5
+m 5
+x 1
+t 1
+j 1
+z 1
+
+Number of people 4
+f 4
+v 4
+n 4
+z 4
+b 4
+d 4
+g 4
+a 4
+k 4
+c 4
+h 1
+y 4
+e 4
+i 4
+u 4
+r 1
+s 2
+j 1
+w 2
+p 1
+
+Number of people 3
+h 2
+w 2
+z 1
+q 1
+
+Number of people 4
+l 4
+d 1
+v 1
+n 4
+w 4
+b 4
+e 1
+u 1
+f 4
+t 4
+
+Number of people 3
+v 1
+c 3
+s 3
+w 1
+
+Number of people 5
+g 5
+w 1
+e 5
+l 5
+b 2
+y 5
+f 5
+n 5
+k 5
+v 5
+m 5
+h 5
+o 1
+r 1
+u 2
+q 2
+c 1
+a 1
+p 1
+j 1
+s 1
+
+Number of people 2
+w 2
+g 2
+h 1
+q 2
+a 1
+j 2
+z 1
+c 2
+i 2
+e 1
+d 1
+y 1
+r 1
+t 1
+l 1
+b 1
+f 1
+k 1
+
+Number of people 3
+c 1
+k 2
+f 2
+g 2
+x 1
+h 1
+j 1
+q 1
+z 1
+o 1
+v 1
+e 1
+i 1
+w 1
+m 1
+t 1
+n 1
+u 1
+d 1
+l 1
+p 1
+a 1
+b 1
+y 1
+r 1
+s 1
+
+Number of people 3
+o 3
+w 3
+f 3
+l 3
+m 3
+y 3
+b 3
+z 3
+s 3
+x 3
+t 3
+i 3
+
+Number of people 2
+f 1
+d 2
+l 1
+g 1
+o 2
+b 2
+y 1
+q 1
+c 2
+z 1
+r 2
+a 2
+h 1
+s 1
+i 1
+k 1
+u 1
+m 1
+e 1
+v 1
+n 1
+w 1
+x 1
+p 1
+j 1
+t 1
+
+Number of people 5
+u 5
+z 1
+b 1
+n 3
+x 5
+a 1
+o 1
+t 1
+v 1
+p 1
+w 1
+
+Number of people 5
+o 5
+r 5
+m 5
+
+Number of people 3
+t 1
+i 2
+a 3
+n 3
+o 1
+g 1
+r 1
+m 1
+v 1
+z 1
+
+Number of people 2
+w 2
+a 2
+u 2
+k 2
+f 2
+
+Number of people 5
+q 5
+j 1
+e 2
+g 1
+c 1
+h 1
+t 2
+l 1
+m 1
+w 3
+s 1
+i 1
+v 1
+k 1
+p 1
+o 2
+a 1
+z 1
+d 1
+x 1
+r 1
+
+Number of people 4
+p 4
+h 4
+r 4
+g 4
+v 4
+u 4
+q 4
+s 4
+f 4
+z 4
+i 4
+w 1
+y 1
+t 1
+b 1
+
+Number of people 2
+z 1
+j 1
+f 2
+d 2
+m 2
+x 2
+h 1
+a 2
+b 2
+t 2
+o 2
+c 2
+r 2
+i 2
+u 1
+v 1
+l 2
+s 2
+p 1
+g 1
+n 1
+
+Number of people 2
+o 1
+g 2
+z 2
+m 2
+f 2
+l 2
+k 2
+q 2
+w 1
+r 1
+p 2
+a 2
+e 2
+b 1
+d 2
+u 1
+t 1
+
+Number of people 2
+v 2
+o 2
+x 1
+a 1
+y 1
+c 1
+k 1
+z 1
+g 1
+r 1
+j 1
+
+Number of people 5
+p 5
+r 5
+k 5
+
+Number of people 2
+p 2
+i 2
+a 2
+j 1
+b 2
+n 2
+v 2
+d 2
+m 2
+l 2
+w 2
+o 2
+c 2
+s 2
+r 2
+z 2
+y 1
+k 1
+
+Number of people 5
+e 1
+f 5
+v 5
+q 5
+y 5
+b 5
+t 5
+g 5
+z 5
+h 5
+j 5
+p 1
+i 1
+r 1
+l 1
+a 1
+x 1
+w 1
+
+Number of people 3
+z 1
+j 3
+x 1
+h 3
+u 3
+w 1
+o 3
+k 3
+g 3
+s 3
+t 3
+c 3
+n 1
+b 1
+y 3
+q 3
+a 1
+l 1
+f 1
+r 1
+d 1
+m 1
+
+Number of people 3
+s 3
+k 3
+i 3
+e 3
+m 3
+t 3
+r 3
+g 3
+w 1
+n 3
+y 3
+p 3
+v 3
+u 3
+o 1
+z 1
+a 1
+q 1
+x 1
+l 1
+b 1
+c 1
+
+Number of people 3
+j 3
+e 3
+u 3
+l 3
+d 3
+f 3
+v 3
+p 3
+c 3
+m 3
+s 3
+x 3
+i 3
+q 1
+b 1
+
+Number of people 2
+o 1
+w 1
+i 1
+q 2
+n 1
+v 2
+u 2
+e 2
+t 2
+z 2
+r 1
+l 1
+h 1
+a 1
+y 1
+
+Number of people 4
+x 3
+g 1
+o 4
+l 1
+t 4
+u 2
+z 3
+q 1
+a 1
+m 1
+c 1
+d 1
+e 1
+f 1
+i 1
+k 2
+p 1
+
+Number of people 3
+p 3
+
+Number of people 3
+n 1
+f 3
+h 3
+x 3
+b 3
+y 3
+d 1
+g 1
+
+Number of people 4
+d 1
+q 2
+v 2
+
+Number of people 4
+b 1
+z 4
+q 4
+a 1
+o 4
+w 4
+f 4
+n 1
+k 1
+s 1
+p 4
+t 1
+r 1
+y 4
+j 4
+x 1
+g 2
+i 2
+m 1
+e 1
+u 1
+c 1
+v 2
+h 1
+l 1
+d 1
+
+Number of people 4
+l 1
+t 2
+i 1
+e 1
+p 1
+f 1
+k 1
+
+Number of people 5
+o 5
+g 5
+z 5
+e 5
+h 5
+s 5
+y 1
+l 5
+c 5
+m 1
+d 1
+v 1
+i 1
+q 1
+p 1
+k 1
+t 1
+
+Number of people 4
+j 4
+r 4
+u 4
+a 4
+s 4
+n 4
+h 4
+d 4
+i 4
+q 4
+b 4
+l 4
+z 4
+t 4
+m 4
+v 4
+o 4
+c 1
+
+Number of people 5
+l 5
+k 5
+s 1
+v 2
+f 1
+j 1
+i 1
+a 1
+m 1
+u 1
+z 2
+g 1
+p 1
+d 1
+b 1
+
+Number of people 5
+r 5
+a 1
+y 5
+m 1
+u 2
+l 1
+
+Number of people 3
+o 1
+w 1
+u 1
+s 1
+c 1
+d 1
+b 1
+i 3
+e 1
+g 1
+h 1
+l 1
+
+Number of people 2
+l 2
+
+Number of people 3
+w 2
+i 1
+y 1
+v 3
+u 3
+x 1
+h 3
+r 1
+t 1
+f 1
+c 1
+b 1
+m 1
+j 1
+s 1
+k 1
+p 1
+
+Number of people 3
+s 3
+j 1
+b 3
+x 1
+p 3
+n 3
+d 2
+t 1
+q 1
+r 1
+
+Number of people 5
+c 5
+r 5
+a 5
+
+Number of people 5
+n 5
+v 5
+q 5
+t 5
+u 5
+s 5
+k 5
+h 2
+x 5
+i 5
+o 1
+a 1
+d 1
+m 1
+e 1
+l 1
+f 1
+y 1
+z 1
+c 1
+w 1
+
+Number of people 2
+h 2
+
+Number of people 2
+u 2
+d 2
+t 2
+l 2
+g 2
+k 2
+c 2
+y 2
+b 1
+n 1
+v 2
+x 2
+f 2
+i 2
+m 1
+e 1
+j 1
+
+Number of people 3
+e 3
+p 1
+x 3
+w 3
+g 3
+y 3
+b 3
+f 1
+
+Number of people 2
+m 1
+e 2
+z 1
+l 1
+t 2
+o 1
+v 1
+s 1
+a 2
+u 1
+p 1
+c 1
+b 1
+i 1
+f 1
+q 1
+k 1
+g 1
+h 1
+
+Number of people 5
+s 2
+f 3
+y 1
+q 5
+g 1
+z 1
+b 1
+e 1
+l 1
+m 1
+n 1
+c 2
+r 1
+d 1
+u 1
+j 1
+h 1
+x 1
+t 1
+k 1
+
+Number of people 3
+h 1
+f 1
+j 1
+o 1
+
+Number of people 5
+e 5
+q 5
+i 5
+k 2
+l 1
+o 1
+g 1
+r 1
+b 1
+h 1
+u 1
+y 1
+p 1
+d 1
+z 1
+m 1
+n 1
+s 1
+
+Number of people 3
+l 3
+w 3
+g 3
+b 3
+r 3
+c 3
+k 3
+h 3
+o 3
+u 3
+v 3
+j 3
+f 3
+n 3
+i 3
+x 3
+y 3
+e 3
+s 1
+m 3
+z 1
+d 1
+t 1
+a 1
+p 1
+
+Number of people 4
+w 1
+g 1
+r 1
+b 1
+e 2
+n 4
+s 4
+i 2
+h 4
+z 1
+v 1
+y 1
+l 1
+d 1
+x 1
+t 1
+c 1
+o 1
+f 1
+k 1
+
+Number of people 5
+m 4
+f 1
+
+Number of people 2
+o 2
+p 2
+x 2
+c 2
+v 2
+r 2
+b 2
+t 2
+e 2
+j 2
+n 2
+a 2
+z 2
+y 2
+u 2
+g 2
+s 2
+m 2
+h 2
+l 2
+d 2
+
+Number of people 3
+c 3
+l 3
+d 3
+z 3
+b 3
+o 3
+p 3
+i 3
+h 3
+x 3
+m 3
+k 3
+y 3
+u 3
+r 3
+v 3
+n 3
+f 3
+
+Number of people 4
+z 2
+a 1
+y 4
+d 4
+f 4
+u 3
+x 1
+c 4
+w 2
+g 1
+r 2
+v 2
+h 1
+m 1
+o 1
+i 1
+p 1
+n 1
+
+Number of people 2
+r 1
+v 1
+
+Number of people 2
+h 2
+v 2
+n 2
+g 2
+t 2
+b 2
+c 2
+q 2
+i 2
+f 2
+k 2
+o 2
+r 2
+p 2
+j 2
+x 2
+d 2
+y 2
+
+Number of people 2
+g 1
+w 1
+o 1
+u 1
+e 1
+s 1
+r 1
+n 1
+i 1
+
+Number of people 2
+b 2
+k 2
+s 2
+c 2
+q 2
+y 2
+m 2
+x 2
+l 1
+o 2
+u 2
+a 2
+r 2
+n 2
+j 2
+w 2
+d 1
+g 1
+e 1
+i 1
+
+Number of people 3
+z 3
+p 3
+d 3
+q 3
+
+Number of people 2
+s 2
+z 1
+i 1
+a 1
+l 1
+t 2
+m 2
+e 2
+j 1
+o 1
+g 1
+f 1
+q 2
+w 1
+d 1
+n 1
+x 1
+v 1
+h 1
+p 1
+r 1
+c 1
+k 1
+b 1
+y 1
+
+Number of people 3
+b 3
+o 3
+
+Number of people 5
+s 1
+t 1
+p 1
+x 1
+m 1
+n 1
+q 5
+r 5
+w 5
+b 1
+y 1
+c 1
+k 1
+a 2
+i 1
+o 2
+h 1
+v 1
+u 1
+j 1
+
+Number of people 4
+k 4
+c 4
+x 4
+e 4
+a 4
+i 4
+b 4
+j 4
+z 4
+n 4
+f 2
+l 4
+h 4
+s 2
+v 2
+o 1
+g 1
+y 1
+m 1
+t 1
+r 1
+
+Number of people 2
+m 2
+r 1
+b 1
+l 2
+o 1
+w 2
+p 1
+q 2
+
+Number of people 5
+l 5
+f 5
+j 5
+r 5
+s 5
+c 5
+m 5
+x 5
+v 1
+o 5
+b 5
+d 1
+i 5
+e 5
+w 5
+y 1
+u 1
+t 1
+p 1
+h 1
+
+Number of people 5
+q 5
+f 5
+p 5
+x 5
+z 5
+o 5
+g 5
+k 5
+w 2
+v 5
+r 5
+h 1
+t 1
+j 1
+d 1
+i 1
+y 1
+n 2
+
+Number of people 2
+k 1
+g 1
+w 1
+m 1
+z 1
+r 1
+d 1
+f 1
+l 1
+b 1
+s 1
+p 1
+
+Number of people 3
+h 2
+p 1
+t 1
+i 1
+a 1
+o 1
+n 1
+f 3
+d 1
+w 1
+c 1
+y 1
+r 1
+q 1
+x 1
+j 1
+b 1
+z 1
+m 1
+s 1
+e 1
+k 1
+
+Number of people 3
+f 1
+v 1
+j 1
+b 1
+z 1
+q 1
+e 1
+m 1
+p 3
+l 1
+a 2
+n 2
+d 1
+i 1
+x 1
+t 1
+
+Number of people 5
+v 1
+f 5
+n 5
+k 1
+c 1
+s 5
+z 1
+x 1
+p 1
+j 1
+e 1
+l 1
+y 1
+r 1
+i 1
+u 1
+
+Number of people 4
+j 2
+t 1
+l 1
+g 1
+o 4
+q 1
+s 1
+h 1
+
+Number of people 3
+l 1
+d 2
+w 1
+k 1
+j 1
+p 1
+e 1
+a 1
+q 1
+
+Number of people 5
+r 5
+z 5
+d 5
+t 5
+f 5
+p 5
+x 5
+a 5
+w 5
+q 5
+e 5
+m 5
+h 5
+b 5
+j 5
+g 5
+l 5
+v 2
+o 1
+c 1
+
+Number of people 5
+o 5
+w 5
+u 5
+b 5
+j 5
+r 5
+t 5
+n 5
+x 5
+a 5
+f 5
+e 1
+
+Number of people 5
+v 5
+c 5
+k 5
+q 5
+u 5
+b 5
+r 1
+p 1
+g 5
+z 5
+i 1
+x 1
+t 1
+f 1
+y 1
+s 1
+j 1
+d 1
+e 1
+n 1
+m 1
+o 1
+
+Number of people 2
+o 2
+w 1
+i 2
+q 1
+z 2
+b 2
+h 2
+d 2
+t 2
+r 2
+s 2
+c 1
+y 2
+k 1
+
+Number of people 3
+m 3
+u 1
+d 3
+j 3
+z 3
+x 3
+c 3
+a 1
+o 3
+y 1
+v 1
+e 1
+s 1
+n 1
+i 1
+k 1
+
+Number of people 3
+o 1
+m 1
+e 1
+h 3
+v 3
+i 1
+q 1
+t 1
+a 1
+l 1
+g 1
+b 1
+r 1
+p 1
+
+Number of people 3
+c 1
+s 3
+b 2
+x 1
+p 3
+n 1
+v 3
+u 1
+l 1
+h 1
+f 1
+g 1
+a 1
+
+Number of people 3
+n 3
+m 3
+h 1
+w 3
+t 3
+l 2
+j 3
+z 1
+r 1
+v 1
+p 1
+g 1
+y 1
+f 1
+q 1
+c 1
+s 1
+u 1
+d 1
+
+Number of people 3
+i 3
+a 1
+q 1
+n 1
+v 1
+e 1
+z 1
+d 1
+
+Number of people 3
+u 3
+e 1
+t 3
+r 3
+w 3
+g 1
+c 3
+a 1
+
+Number of people 3
+f 3
+o 3
+z 3
+j 1
+b 1
+i 1
+m 3
+h 1
+d 3
+r 3
+n 3
+k 3
+c 3
+q 1
+x 3
+v 3
+t 3
+e 1
+w 3
+p 3
+l 1
+u 1
+s 1
+y 2
+a 1
+g 1
+
+Number of people 2
+i 2
+f 2
+
+Number of people 2
+o 2
+g 2
+s 2
+e 2
+
+Number of people 5
+j 5
+z 1
+b 1
+r 5
+m 5
+e 1
+w 5
+s 5
+t 1
+h 5
+d 5
+y 5
+p 5
+k 2
+l 2
+v 1
+
+Number of people 3
+q 3
+e 3
+
+Number of people 3
+o 3
+w 3
+u 3
+h 3
+p 3
+s 3
+l 3
+z 3
+n 3
+k 3
+v 1
+a 3
+m 3
+x 3
+t 3
+f 3
+r 1
+
+Number of people 1
+v 1
+u 1
+e 1
+l 1
+d 1
+j 1
+i 1
+o 1
+
+Number of people 5
+r 5
+j 2
+f 5
+n 5
+v 5
+s 5
+i 5
+d 1
+g 1
+m 1
+
+Number of people 5
+d 5
+l 5
+a 5
+y 5
+i 5
+x 1
+r 5
+v 5
+k 5
+t 5
+c 5
+f 5
+m 5
+z 2
+j 1
+o 1
+g 1
+w 1
+s 1
+b 1
+
+Number of people 2
+n 2
+b 2
+m 1
+e 1
+x 2
+h 2
+y 2
+c 1
+v 2
+i 1
+r 2
+q 1
+s 2
+t 2
+a 1
+f 1
+u 1
+g 1
+l 1
+p 1
+
+Number of people 3
+v 1
+i 1
+m 1
+u 1
+r 1
+z 1
+j 1
+c 3
+a 3
+l 3
+p 3
+o 1
+b 3
+y 3
+g 1
+x 2
+d 1
+n 1
+w 1
+k 1
+q 1
+s 1
+t 2
+h 1
+f 1
+e 1
+
+Number of people 2
+k 2
+
+Number of people 4
+d 4
+b 4
+i 1
+u 1
+
+Number of people 3
+r 3
+g 3
+o 3
+x 3
+m 3
+y 3
+k 3
+t 3
+e 1
+v 1
+u 3
+z 3
+w 3
+i 3
+a 3
+p 2
+c 3
+l 3
+b 1
+h 1
+s 1
+f 1
+q 1
+d 1
+j 1
+n 1
+
+Number of people 2
+h 2
+f 2
+n 2
+m 2
+u 2
+e 1
+d 2
+o 2
+w 2
+p 2
+a 1
+b 2
+z 2
+q 2
+g 2
+r 1
+x 1
+y 1
+c 1
+i 1
+v 1
+l 1
+s 1
+
+Number of people 2
+n 2
+
+Number of people 3
+f 3
+v 1
+u 3
+e 1
+d 3
+c 3
+s 3
+p 3
+m 3
+z 3
+g 1
+
+Number of people 3
+x 3
+b 1
+e 3
+m 3
+f 3
+k 1
+c 3
+s 3
+v 3
+d 2
+q 2
+w 3
+n 1
+j 1
+h 1
+u 1
+o 1
+r 1
+a 1
+y 1
+z 1
+
+Number of people 3
+i 1
+y 3
+t 3
+l 1
+s 3
+m 1
+h 1
+n 3
+f 3
+z 3
+a 3
+g 2
+k 1
+q 3
+r 1
+b 1
+o 1
+x 1
+p 1
+d 1
+w 1
+v 1
+e 1
+c 1
+
+Number of people 4
+c 1
+h 1
+p 4
+i 4
+n 1
+f 2
+m 4
+e 1
+b 1
+u 2
+z 2
+r 1
+g 1
+v 1
+t 1
+o 1
+k 1
+l 1
+a 1
+w 1
+d 1
+
+Number of people 5
+b 1
+r 1
+j 1
+e 5
+q 1
+i 1
+s 1
+n 1
+v 2
+x 1
+z 1
+
+Number of people 5
+v 1
+f 1
+x 1
+p 1
+s 2
+u 1
+a 1
+t 1
+q 1
+y 1
+e 1
+d 1
+z 1
+l 2
+i 1
+g 1
+h 2
+
+Number of people 5
+q 2
+o 1
+x 1
+p 3
+j 1
+e 1
+u 1
+c 1
+r 1
+t 1
+z 1
+l 1
+k 1
+w 1
+
+Number of people 4
+a 4
+q 4
+n 4
+j 4
+e 1
+u 4
+l 4
+t 4
+i 4
+f 4
+s 4
+x 1
+y 1
+v 1
+c 1
+o 1
+p 1
+
+Number of people 3
+g 3
+m 3
+u 3
+x 3
+q 3
+t 3
+
+Number of people 4
+y 1
+a 2
+v 1
+x 1
+l 1
+w 1
+c 1
+
+Number of people 2
+s 2
+c 2
+k 2
+b 2
+t 1
+v 1
+i 1
+e 2
+l 1
+j 1
+u 1
+
+Number of people 4
+a 4
+y 4
+o 4
+g 4
+w 2
+d 4
+l 4
+p 4
+h 4
+n 4
+r 4
+x 1
+c 1
+s 1
+e 1
+k 1
+m 1
+t 1
+q 1
+j 1
+z 1
+f 1
+u 1
+b 1
+v 1
+i 1
+
+Number of people 4
+o 4
+p 4
+h 4
+q 4
+d 4
+m 4
+e 4
+z 4
+x 4
+a 4
+u 1
+b 4
+f 4
+l 4
+r 4
+c 4
+k 4
+i 4
+j 4
+t 4
+y 1
+
+Number of people 5
+k 5
+i 1
+f 1
+
+Number of people 2
+g 2
+w 2
+v 2
+m 2
+a 2
+y 2
+p 2
+
+Number of people 4
+h 4
+v 4
+l 2
+t 1
+k 4
+s 4
+y 1
+b 4
+o 1
+u 2
+e 1
+j 1
+g 1
+a 1
+w 1
+q 1
+x 1
+z 1
+r 1
+
+Number of people 2
+i 1
+a 2
+y 1
+h 2
+g 2
+w 2
+t 2
+r 2
+v 2
+q 2
+p 2
+x 2
+l 1
+z 2
+b 2
+n 2
+d 1
+k 2
+m 2
+j 2
+s 1
+u 1
+
+Number of people 4
+c 4
+j 4
+r 4
+o 4
+
+Number of people 3
+f 1
+s 1
+u 3
+m 1
+j 1
+z 1
+b 3
+p 1
+e 2
+t 1
+v 2
+g 1
+c 1
+r 1
+d 1
+n 1
+y 1
+a 1
+h 1
+
+Number of people 4
+y 1
+a 1
+q 1
+i 4
+z 1
+h 1
+l 1
+s 1
+k 1
+c 2
+e 2
+p 1
+w 1
+d 1
+t 2
+o 1
+u 2
+b 1
+n 2
+m 1
+g 2
+
+Number of people 5
+h 5
+a 1
+y 5
+r 5
+b 5
+w 2
+o 5
+k 5
+j 1
+d 1
+u 1
+s 1
+n 1
+m 1
+p 1
+f 1
+
+Number of people 5
+p 5
+h 5
+l 5
+j 2
+r 5
+s 5
+k 5
+a 5
+i 5
+b 5
+v 1
+o 2
+t 5
+f 5
+z 5
+c 1
+w 2
+e 1
+y 1
+x 1
+u 1
+g 1
+q 1
+
+Number of people 5
+d 5
+m 1
+e 1
+p 1
+a 1
+q 1
+f 1
+b 1
+n 1
+o 1
+
+Number of people 2
+v 1
+k 1
+a 1
+b 1
+
+Number of people 2
+f 2
+p 2
+h 2
+b 2
+z 2
+r 2
+u 2
+m 2
+t 2
+g 2
+e 2
+
+Number of people 5
+s 1
+n 3
+i 1
+q 1
+b 1
+x 1
+
+Number of people 2
+s 1
+c 2
+l 2
+t 1
+w 2
+o 2
+f 2
+h 2
+i 2
+
+Number of people 4
+g 4
+w 4
+s 4
+v 4
+b 4
+y 4
+u 4
+t 4
+l 4
+o 4
+c 4
+e 4
+k 4
+f 4
+r 4
+h 4
+p 4
+a 4
+i 4
+n 4
+m 4
+q 4
+
+Number of people 4
+y 1
+g 4
+n 1
+j 1
+
+Number of people 5
+e 5
+d 5
+y 5
+j 5
+z 5
+b 5
+o 5
+n 5
+w 5
+v 5
+s 5
+l 5
+a 5
+r 5
+h 5
+m 1
+
+Number of people 2
+s 2
+c 1
+y 2
+g 2
+o 1
+x 1
+h 2
+n 1
+q 2
+f 1
+u 1
+
+Number of people 5
+f 5
+j 1
+
+Number of people 4
+t 4
+d 2
+l 4
+n 2
+j 1
+r 2
+x 2
+h 2
+s 1
+b 1
+g 1
+a 1
+y 1
+u 1
+v 1
+k 1
+q 2
+e 2
+p 1
+z 1
+
+Number of people 2
+x 1
+m 2
+u 2
+f 2
+y 2
+o 2
+g 1
+r 2
+z 2
+w 2
+e 1
+
+Number of people 3
+x 1
+d 1
+m 1
+u 1
+f 3
+g 1
+y 1
+k 1
+p 1
+w 1
+e 3
+i 1
+b 3
+v 1
+z 2
+s 1
+c 2
+j 1
+r 1
+l 1
+o 2
+n 1
+t 1
+q 1
+a 1
+
+Number of people 5
+d 5
+x 5
+u 1
+m 1
+n 5
+v 1
+r 5
+b 5
+p 1
+z 1
+e 2
+f 1
+g 1
+
+Number of people 4
+o 4
+d 4
+f 1
+
+Number of people 3
+c 3
+k 3
+a 3
+y 3
+q 3
+e 3
+p 3
+r 3
+b 3
+n 3
+g 3
+
+Number of people 3
+r 3
+z 3
+g 3
+w 2
+k 1
+t 3
+
+Number of people 3
+w 3
+o 3
+x 3
+p 1
+r 3
+j 3
+z 3
+n 1
+
+Number of people 4
+o 4
+e 4
+r 4
+v 4
+n 4
+l 4
+p 4
+
+Number of people 3
+q 1
+x 1
+n 1
+
+Number of people 2
+d 2
+t 2
+u 1
+y 2
+q 2
+n 2
+h 2
+r 2
+g 2
+j 2
+p 1
+o 2
+w 2
+b 1
+
+Number of people 2
+v 1
+d 1
+t 1
+r 1
+h 1
+i 1
+
+Number of people 3
+i 1
+l 3
+t 3
+z 3
+c 3
+e 3
+n 3
+w 1
+v 3
+x 3
+g 3
+o 3
+f 3
+a 3
+q 2
+
+Number of people 4
+x 1
+p 4
+s 4
+c 4
+j 4
+z 4
+e 1
+y 1
+b 1
+r 1
+q 1
+m 1
+g 1
+n 1
+a 1
+h 1
+w 1
+f 1
+
+Number of people 5
+q 5
+y 5
+j 5
+z 5
+u 3
+e 5
+h 5
+l 3
+a 1
+p 1
+f 1
+
+Number of people 3
+u 1
+t 3
+d 2
+l 1
+w 3
+g 3
+o 2
+s 3
+j 3
+x 3
+z 3
+e 3
+b 1
+q 3
+h 3
+r 3
+v 3
+m 1
+n 1
+y 1
+k 1
+p 1
+c 1
+f 1
+a 1
+i 1
+
+Number of people 5
+v 4
+d 1
+
+Number of people 4
+g 4
+o 1
+w 4
+f 4
+v 4
+z 4
+e 1
+d 4
+l 4
+p 4
+r 4
+s 4
+h 4
+i 1
+c 1
+b 3
+j 2
+u 2
+
+Number of people 4
+d 4
+y 4
+n 4
+v 4
+r 4
+k 1
+c 4
+g 4
+f 4
+p 4
+t 4
+j 4
+q 4
+a 1
+i 1
+x 1
+
+Number of people 4
+o 4
+m 4
+e 4
+v 4
+s 4
+k 4
+l 4
+p 4
+g 4
+a 1
+
+Number of people 2
+x 1
+l 1
+g 1
+o 2
+y 1
+i 1
+a 1
+m 1
+s 1
+p 1
+c 1
+w 1
+
+Number of people 2
+r 2
+
+Number of people 4
+m 2
+e 1
+i 4
+a 4
+p 4
+o 4
+z 1
+v 1
+y 1
+l 1
+r 1
+k 1
+q 1
+w 1
+c 1
+j 1
+
+Number of people 5
+v 5
+j 5
+z 5
+a 5
+y 5
+w 5
+m 5
+x 5
+r 5
+t 1
+
+Number of people 5
+e 5
+u 5
+m 5
+b 5
+z 5
+t 5
+i 5
+o 5
+d 5
+n 5
+x 5
+g 5
+a 5
+p 5
+h 5
+y 5
+v 5
+c 5
+w 5
+l 1
+
+Number of people 2
+d 2
+w 2
+g 2
+m 2
+e 2
+f 2
+p 2
+b 2
+h 2
+x 1
+
+Number of people 5
+d 5
+g 1
+o 1
+i 1
+y 5
+n 5
+j 1
+e 1
+l 1
+w 1
+s 1
+t 1
+x 1
+z 1
+a 1
+v 1
+b 1
+h 1
+p 1
+r 1
+u 1
+
+Number of people 5
+b 5
+d 5
+o 5
+g 5
+x 5
+u 5
+m 5
+s 5
+c 5
+j 5
+r 5
+a 5
+p 5
+n 5
+t 5
+f 5
+w 5
+h 5
+v 5
+y 1
+
+Number of people 2
+t 2
+v 2
+f 2
+r 2
+o 2
+y 2
+q 2
+x 2
+h 2
+a 2
+l 2
+p 2
+m 2
+n 2
+w 2
+i 2
+k 2
+g 2
+c 2
+e 2
+u 2
+j 2
+z 2
+d 2
+s 2
+b 1
+
+Number of people 2
+d 2
+c 2
+m 1
+e 1
+y 1
+q 2
+a 2
+b 2
+f 2
+w 2
+g 1
+h 2
+l 2
+u 2
+v 1
+o 1
+s 1
+
+Number of people 4
+h 4
+x 4
+a 4
+y 4
+l 4
+t 4
+c 4
+e 4
+g 4
+b 4
+j 4
+
+Number of people 5
+a 5
+
+Number of people 5
+e 5
+d 1
+t 5
+x 5
+p 5
+i 5
+a 5
+s 5
+g 1
+j 5
+c 5
+v 1
+l 1
+m 1
+k 1
+
+Number of people 2
+z 2
+t 2
+l 2
+n 2
+v 2
+y 2
+i 2
+w 2
+u 2
+g 2
+p 2
+e 2
+h 2
+s 2
+o 2
+d 2
+q 2
+x 2
+r 2
+k 2
+j 1
+f 2
+a 1
+
+Number of people 2
+w 1
+g 1
+s 1
+d 1
+b 2
+z 2
+u 2
+q 2
+l 1
+o 2
+n 1
+k 1
+j 1
+r 1
+m 1
+
+Number of people 2
+d 2
+x 2
+h 2
+r 1
+z 2
+k 1
+i 2
+u 1
+w 2
+s 2
+j 2
+p 2
+o 2
+e 2
+q 1
+g 1
+
+Number of people 2
+p 1
+x 1
+g 1
+s 1
+n 1
+r 1
+b 1
+u 1
+y 1
+m 1
+j 1
+e 1
+f 1
+k 1
+w 1
+t 1
+o 1
+c 1
+h 1
+
+Number of people 5
+c 1
+u 5
+e 5
+m 1
+z 1
+w 1
+y 1
+n 1
+v 3
+x 1
+p 2
+g 1
+f 1
+o 1
+r 1
+h 1
+
+Number of people 5
+i 5
+w 5
+o 5
+r 5
+c 5
+t 5
+l 5
+x 5
+f 5
+k 1
+m 1
+e 1
+v 1
+z 1
+s 1
+h 1
+p 2
+y 1
+j 1
+a 1
+
+Number of people 5
+j 5
+b 1
+a 5
+g 5
+o 5
+k 5
+v 5
+
+Number of people 5
+n 1
+f 5
+p 5
+w 5
+u 1
+e 1
+k 2
+
+Number of people 5
+k 5
+e 5
+q 5
+a 5
+y 5
+o 5
+t 5
+n 5
+r 5
+p 5
+h 5
+s 5
+c 5
+v 5
+d 5
+i 5
+u 5
+m 5
+l 1
+
+Number of people 4
+q 4
+y 4
+a 4
+p 4
+l 4
+w 4
+g 4
+b 4
+m 4
+n 4
+c 1
+v 4
+k 1
+
+Number of people 2
+x 1
+r 2
+j 2
+u 1
+f 1
+c 1
+s 2
+o 2
+m 2
+t 2
+w 2
+h 2
+p 2
+b 2
+y 2
+d 2
+l 2
+a 2
+e 1
+z 1
+g 1
+
+Number of people 2
+l 2
+t 1
+o 1
+e 2
+m 1
+x 1
+p 1
+z 2
+h 1
+q 1
+y 1
+s 1
+i 1
+j 1
+w 1
+u 1
+d 1
+g 1
+
+Number of people 2
+w 2
+b 2
+j 2
+n 1
+u 1
+c 1
+y 1
+h 2
+r 1
+t 1
+a 1
+
+Number of people 2
+b 2
+e 2
+o 2
+
+Number of people 5
+o 3
+g 1
+w 1
+h 1
+n 1
+
+Number of people 4
+v 4
+n 4
+k 4
+t 4
+z 4
+b 4
+a 4
+i 4
+d 1
+
+Number of people 2
+m 2
+e 2
+w 2
+g 2
+p 2
+l 2
+j 2
+v 2
+i 2
+h 2
+c 2
+b 2
+y 2
+z 2
+a 2
+d 2
+f 2
+n 2
+s 2
+t 2
+u 2
+q 2
+k 2
+
+Number of people 2
+x 2
+p 2
+h 2
+e 2
+d 2
+q 2
+i 2
+b 2
+n 1
+
+Number of people 2
+u 2
+m 2
+i 1
+y 2
+z 2
+b 2
+d 2
+k 2
+x 2
+o 2
+a 2
+t 1
+e 2
+g 2
+s 1
+
+Number of people 5
+w 5
+v 5
+f 5
+x 5
+a 5
+l 2
+j 5
+r 5
+k 5
+u 5
+g 5
+e 1
+t 5
+s 1
+b 1
+n 1
+z 1
+h 1
+o 1
+i 1
+c 1
+m 1
+q 1
+
+Number of people 2
+b 2
+d 2
+l 2
+m 2
+f 2
+h 1
+p 2
+q 2
+u 2
+s 1
+y 2
+n 2
+e 2
+w 1
+
+Number of people 2
+j 2
+n 1
+v 2
+u 2
+i 2
+a 2
+y 2
+o 2
+d 2
+c 2
+g 2
+x 2
+e 2
+f 2
+q 1
+w 2
+k 2
+t 2
+h 1
+
+Number of people 5
+r 2
+b 1
+j 1
+z 1
+o 1
+u 1
+x 1
+f 3
+p 2
+a 2
+c 1
+k 2
+l 1
+d 2
+i 1
+h 1
+w 1
+t 1
+g 1
+
+Number of people 4
+h 2
+i 1
+z 1
+
+Number of people 4
+s 4
+
+Number of people 4
+n 4
+b 3
+z 2
+j 4
+e 4
+u 4
+t 4
+q 4
+d 4
+w 4
+g 4
+p 4
+f 4
+i 4
+y 2
+s 1
+k 1
+v 1
+a 1
+o 1
+l 1
+x 1
+
+Number of people 4
+j 4
+z 4
+s 4
+e 4
+m 4
+f 4
+t 4
+l 4
+k 4
+b 4
+u 4
+r 4
+c 4
+
+Number of people 2
+v 1
+n 1
+p 2
+k 2
+w 2
+o 2
+d 1
+q 2
+t 1
+x 1
+g 2
+a 2
+c 2
+
+Number of people 5
+g 5
+w 5
+j 5
+z 5
+d 5
+p 5
+s 2
+f 5
+v 2
+n 1
+e 1
+h 1
+
+Number of people 3
+v 3
+n 1
+r 3
+b 3
+h 3
+k 3
+i 3
+d 3
+c 3
+m 1
+z 1
+p 1
+s 1
+
+Number of people 3
+p 2
+h 1
+o 1
+w 3
+j 2
+a 1
+u 1
+l 1
+v 3
+z 1
+f 1
+c 1
+g 1
+r 1
+t 1
+q 1
+
+Number of people 3
+k 3
+l 3
+
+Number of people 2
+l 2
+n 1
+b 2
+r 2
+o 1
+w 2
+m 2
+k 1
+f 2
+u 2
+e 2
+i 2
+t 2
+z 1
+h 2
+v 2
+j 2
+a 2
+q 2
+p 2
+y 2
+x 2
+s 1
+c 1
+g 1
+d 1
+
+Number of people 2
+j 2
+e 2
+f 1
+v 2
+s 1
+o 2
+q 2
+d 2
+
+Number of people 3
+p 1
+e 1
+c 2
+k 3
+q 1
+a 1
+n 3
+v 3
+j 1
+s 1
+f 1
+
+Number of people 5
+z 5
+j 5
+p 3
+u 5
+c 5
+k 1
+w 1
+t 1
+
+Number of people 5
+t 5
+q 5
+o 5
+k 5
+e 5
+m 1
+f 5
+j 5
+s 5
+b 1
+n 2
+a 1
+c 1
+i 1
+u 1
+y 1
+p 1
+r 1
+x 1
+w 1
+
+Number of people 4
+a 4
+x 4
+h 4
+p 3
+l 4
+z 4
+r 4
+m 4
+i 2
+q 4
+o 2
+k 1
+j 1
+n 1
+t 1
+w 1
+f 1
+y 1
+
+Number of people 4
+z 4
+b 4
+v 4
+n 4
+k 4
+t 4
+y 1
+m 4
+f 4
+c 4
+a 4
+r 4
+o 4
+e 1
+j 1
+s 2
+
+Number of people 5
+y 5
+b 5
+
+Number of people 2
+l 2
+g 2
+o 2
+c 2
+k 2
+f 2
+h 2
+i 2
+y 2
+a 2
+x 2
+q 2
+d 2
+s 2
+n 2
+e 2
+r 2
+b 2
+v 2
+z 2
+p 2
+w 2
+m 2
+
+Number of people 2
+g 2
+s 2
+y 2
+a 2
+p 2
+t 2
+d 2
+e 2
+j 1
+z 2
+l 1
+u 2
+n 2
+i 2
+b 2
+q 2
+v 1
+
+Number of people 4
+v 4
+l 4
+d 4
+g 4
+o 4
+s 4
+c 4
+u 4
+b 4
+n 4
+y 4
+m 4
+t 4
+f 4
+p 4
+h 4
+z 4
+e 1
+
+Number of people 3
+c 3
+u 3
+d 3
+q 3
+i 3
+h 3
+p 3
+z 3
+b 3
+m 3
+n 3
+a 3
+v 3
+f 3
+r 3
+y 3
+l 3
+g 3
+
+Number of people 4
+p 4
+h 4
+x 4
+s 4
+u 4
+
+Number of people 2
+q 2
+l 1
+c 2
+b 2
+j 1
+f 2
+
+Number of people 4
+r 4
+u 4
+s 4
+c 1
+v 4
+l 1
+y 4
+i 4
+b 1
+g 4
+w 4
+k 1
+p 1
+n 2
+m 1
+e 1
+q 1
+
+Number of people 3
+d 3
+k 3
+c 1
+i 1
+a 3
+r 1
+b 1
+e 3
+u 1
+n 3
+y 3
+w 2
+f 1
+h 2
+g 1
+t 2
+v 1
+
+Number of people 4
+h 4
+q 4
+t 4
+d 1
+w 4
+o 1
+k 1
+c 1
+
+Number of people 4
+i 4
+
+Number of people 5
+w 5
+q 1
+a 5
+s 1
+c 5
+n 1
+d 1
+h 2
+m 1
+g 1
+z 1
+f 1
+v 1
+o 1
+e 1
+l 1
+
+Number of people 4
+s 4
+i 4
+y 4
+m 4
+n 4
+v 4
+b 4
+t 4
+x 4
+z 1
+d 4
+l 4
+p 4
+k 4
+e 4
+w 4
+f 4
+o 2
+g 1
+
+Number of people 5
+e 5
+z 5
+o 5
+g 5
+d 5
+l 5
+q 5
+a 5
+v 5
+j 5
+p 5
+i 5
+r 5
+y 5
+f 5
+m 5
+s 5
+h 5
+u 5
+n 5
+w 5
+c 5
+b 5
+
+Number of people 2
+p 2
+x 2
+e 2
+m 2
+v 2
+n 2
+t 2
+i 2
+h 2
+b 2
+r 2
+g 2
+q 2
+l 2
+y 2
+f 2
+a 2
+u 2
+o 2
+j 2
+k 2
+d 2
+c 2
+z 2
+
+Number of people 3
+y 1
+l 2
+s 3
+k 3
+r 3
+m 3
+h 1
+w 1
+g 1
+a 1
+c 1
+z 1
+b 1
+x 1
+
+Number of people 2
+h 2
+e 1
+n 1
+f 1
+b 2
+r 2
+y 2
+q 2
+s 2
+w 2
+z 1
+i 2
+g 1
+o 2
+v 1
+
+Number of people 3
+r 3
+b 3
+l 1
+m 1
+
+Number of people 2
+c 2
+k 1
+r 1
+n 1
+y 2
+q 2
+m 1
+l 1
+x 1
+e 1
+j 1
+
+Number of people 1
+z 4
+q 1
+a 4
+c 4
+s 4
+t 4
+g 4
+m 4
+d 4
+p 4
+n 4
+f 4
+h 4
+i 4
+e 4
+o 1
+k 4
+l 4
+

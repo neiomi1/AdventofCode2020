@@ -1,0 +1,3 @@
+Input read in 22905 microseconds.
+Bad passwords calculated in 435 microseconds.
+Triple calculated in 70 microseconds.

@@ -1,0 +1,3 @@
+Input read and parsed in: 1498549 microseconds.
+Sum of all bags containing calculated in: 3880 microseconds.
+Number of all contained bags calculated in: 24528 microseconds.

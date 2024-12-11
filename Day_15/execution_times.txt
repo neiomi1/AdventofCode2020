@@ -1,0 +1,2 @@
+Part one calculated in: 338 microseconds.
+Part two calculated in: 1683708 microseconds.

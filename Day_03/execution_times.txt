@@ -1,0 +1,3 @@
+Input read in 18027 microseconds.
+Number of trees found in: 372 microseconds.
+All paths calculated in: 1563 microseconds.
